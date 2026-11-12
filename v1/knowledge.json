@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T22:22:12Z",
- "content_hash": "0156e32e04fd038c",
+ "generated_at": "2026-11-12T20:59:24Z",
+ "content_hash": "70e50062218fe5b6",
  "cards": [
   {
    "id": "amex_blue_cash_everyday",
@@ -3060,7 +3060,8 @@
     "Events by Amex 已于 2026-06-10 结束。",
     "限时：American Express Venue Collection 球场/场馆餐饮 10% 返现，每自然年最多 $250，需注册，2026-12-31 结束（每位持卡人只能注册一张卡）。",
     "待核实：SoulCycle At-Home Bike $300 报销（每次买车）是否仍有效——DoC 2025 改版文章写“不变”，但 Amex 2025 官方 fact sheet 和当前条款页未见。",
-    "待核实：Airbnb Experiences 报销的确切上线日期（约 2026-10-22 前后）。"
+    "待核实：Airbnb Experiences 报销的确切上线日期（约 2026-10-22 前后）。",
+    "自2027年1月6日起，Venue Collection 体育场馆餐饮 10% 返现（每年上限 $250）从 Amex Offers 移到权益（Benefits）栏，已注册的卡无需重新注册；附属卡不能注册，主卡可分别为每张主卡注册。（Doctor of Credit 2026-11-12，AI 自动整理，待核实）"
    ],
    "sources": [
     {
@@ -3127,6 +3128,11 @@
      "url": "https://www.doctorofcredit.com/amex-platinum-increases-au-fees-further-restricts-sign-up-bonus-audible-removed/",
      "title": "DoC: Platinum family welcome-offer language",
      "accessed": "2026-11-08"
+    },
+    {
+     "url": "https://www.doctorofcredit.com/american-express-makes-changes-to-10-venue-collection-benefit/",
+     "title": "American Express Makes Changes To 10% Venue Collection Benefit",
+     "accessed": "2026-11-12"
     }
    ],
    "last_verified": "2026-11-08"
@@ -14950,7 +14956,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1400,
    "source_url": "https://www.uscreditcardguide.com/chase-marriott-premier-plus/",
-   "notes": "美国信用卡指南标题注明“史高”，并称 200k 是此卡最高的点数 offer（面值上不如曾经的 5 张 50k 免房券）；DoC 2026-11-05 收录。截止 2026-11-11。受 5/24；正持有 Boundless/Bold/Marriott 老卡或 24 个月内拿过其奖励不能拿；Amex 万豪卡交叉限制见卡片规则。卡本身另有 $100 航司报销（每半年 $50，至 2027-06-30）。排行榜页面写着“+3 Free Nights 价值 $0”，疑为数据残留，以单卡页为准。"
+   "notes": "美国信用卡指南标题注明“史高”，并称 200k 是此卡最高的点数 offer（面值上不如曾经的 5 张 50k 免房券）；DoC 2026-11-05 收录。截止 2026-11-11。受 5/24；正持有 Boundless/Bold/Marriott 老卡或 24 个月内拿过其奖励不能拿；Amex 万豪卡交叉限制见卡片规则。卡本身另有 $100 航司报销（每半年 $50，至 2027-06-30）。排行榜页面写着“+3 Free Nights 价值 $0”，疑为数据残留，以单卡页为准。",
+   "updated_by": null
   },
   {
    "id": "chase_sapphire_reserve_2026-06_100k",
@@ -14971,7 +14978,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1600,
    "source_url": "https://www.uscreditcardguide.com/chase-sapphire-reserve/",
-   "notes": "常规奖励。2026-04 曾有 150k（此卡史上最高公开奖励），2026-06 过期。2025-06-23 起 Sapphire 改为“一辈子一次”+弹窗，2026-01-25 起 CSP/CSR 互不影响（持有 CSP 也能拿 CSR 奖励），但每张卡终身只能拿一次。"
+   "notes": "常规奖励。2026-04 曾有 150k（此卡史上最高公开奖励），2026-06 过期。2025-06-23 起 Sapphire 改为“一辈子一次”+弹窗，2026-01-25 起 CSP/CSR 互不影响（持有 CSP 也能拿 CSR 奖励），但每张卡终身只能拿一次。",
+   "updated_by": null
   },
   {
    "id": "chase_sapphire_preferred_2026-08_75k",
@@ -14992,7 +15000,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1200,
    "source_url": "https://www.uscreditcardguide.com/chase-sapphire-preferred/",
-   "notes": "常规奖励；2026-06~08 曾有 100k（史高回归）。规则同 CSR：一辈子一次 + 弹窗，正持有个人 Sapphire 卡拿不到。"
+   "notes": "常规奖励；2026-06~08 曾有 100k（史高回归）。规则同 CSR：一辈子一次 + 弹窗，正持有个人 Sapphire 卡拿不到。",
+   "updated_by": null
   },
   {
    "id": "chase_sapphire_preferred_2026-08_125k_targeted",
@@ -15013,7 +15022,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 2000,
    "source_url": "https://www.uscreditcardguide.com/chase-sapphire-preferred/",
-   "notes": "Chase app 里查看 pre-approved offers 的位置可能出现的 125k 定向 offer，YMMV；消费要求未见来源，待核实。"
+   "notes": "Chase app 里查看 pre-approved offers 的位置可能出现的 125k 定向 offer，YMMV；消费要求未见来源，待核实。",
+   "updated_by": null
   },
   {
    "id": "chase_freedom_flex_2026-09_250usd",
@@ -15034,7 +15044,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 250,
    "source_url": "https://www.uscreditcardguide.com/chase-freedom-flex/",
-   "notes": "美国信用卡指南称“此卡最好的开卡奖励之一”。2026-09-20 起此卡取消外币手续费、取消手机保险。"
+   "notes": "美国信用卡指南称“此卡最好的开卡奖励之一”。2026-09-20 起此卡取消外币手续费、取消手机保险。",
+   "updated_by": null
   },
   {
    "id": "chase_freedom_unlimited_2026-05_200usd",
@@ -15055,7 +15066,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 200,
    "source_url": "https://www.uscreditcardguide.com/chase-freedom-unlimited/",
-   "notes": "常规奖励。经 Rakuten 申请另有返现（Chase 新客户 $90/老客户 $50，2026-06）；DoC 另列分行限定 $200 + 首年加油/超市 5%。2025-12 曾有 $300（常规奖励历史最高）。first_seen 为月份级日期。"
+   "notes": "常规奖励。经 Rakuten 申请另有返现（Chase 新客户 $90/老客户 $50，2026-06）；DoC 另列分行限定 $200 + 首年加油/超市 5%。2025-12 曾有 $300（常规奖励历史最高）。first_seen 为月份级日期。",
+   "updated_by": null
   },
   {
    "id": "chase_amazon_prime_2026-11_200usd",
@@ -15076,7 +15088,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 200,
    "source_url": "https://www.uscreditcardguide.com/chase-amazon-prime/",
-   "notes": "无消费要求，需 Prime 会员（非会员奖励更低）。近期最高 $250。"
+   "notes": "无消费要求，需 Prime 会员（非会员奖励更低）。近期最高 $250。",
+   "updated_by": null
   },
   {
    "id": "chase_world_of_hyatt_2026-11_4fn",
@@ -15097,7 +15110,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 800,
    "source_url": "https://www.uscreditcardguide.com/chase-world-of-hyatt/",
-   "notes": "历史最好是 5 FN 或 60k 点数（5 FN 于 2026-03 前下架）；平时为 “up to 60k” 点数。估值按每张券约 $200。可配合 Hyatt Privé 促销使用。"
+   "notes": "历史最好是 5 FN 或 60k 点数（5 FN 于 2026-03 前下架）；平时为 “up to 60k” 点数。估值按每张券约 $200。可配合 Hyatt Privé 促销使用。",
+   "updated_by": null
   },
   {
    "id": "chase_ihg_premier_2026-10_190k",
@@ -15118,7 +15132,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 950,
    "source_url": "https://www.uscreditcardguide.com/chase-ihg-premier/",
-   "notes": "2026-10 改版（年费涨到 $150、福利增强）后的奖励；bonus_amount 含加副卡的 10k。2026-04 DoC 记录过 185k；美国信用卡指南称近期最高为 5 FN（up to 60k/晚）。"
+   "notes": "2026-10 改版（年费涨到 $150、福利增强）后的奖励；bonus_amount 含加副卡的 10k。2026-04 DoC 记录过 185k；美国信用卡指南称近期最高为 5 FN（up to 60k/晚）。",
+   "updated_by": null
   },
   {
    "id": "chase_ihg_premier_select_2026-10_210k",
@@ -15139,7 +15154,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1050,
    "source_url": "https://www.uscreditcardguide.com/chase-ihg-premier-select/",
-   "notes": "2026-10 新发卡（年费 $350）首发 offer，截止 2026-11-18；bonus_amount 含加副卡的 10k。"
+   "notes": "2026-10 新发卡（年费 $350）首发 offer，截止 2026-11-18；bonus_amount 含加副卡的 10k。",
+   "updated_by": null
   },
   {
    "id": "chase_ihg_traveler_2026-10_135k",
@@ -15160,7 +15176,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 675,
    "source_url": "https://www.uscreditcardguide.com/chase-ihg-traveler/",
-   "notes": "美国信用卡指南标注“史高”。无年费；2026-10 改版后积分房第四晚免费需年消费 $5k 解锁。"
+   "notes": "美国信用卡指南标注“史高”。无年费；2026-10 改版后积分房第四晚免费需年消费 $5k 解锁。",
+   "updated_by": null
   },
   {
    "id": "chase_united_explorer_2026-10_80k",
@@ -15181,7 +15198,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1120,
    "source_url": "https://www.uscreditcardguide.com/chase-united-mileageplus-explorer/",
-   "notes": "美国信用卡指南称这是此卡最高奖励，但 DoC 写 75k–90k（需加副卡并使用空乘 offer code 才能拿满），故未标史高。"
+   "notes": "美国信用卡指南称这是此卡最高奖励，但 DoC 写 75k–90k（需加副卡并使用空乘 offer code 才能拿满），故未标史高。",
+   "updated_by": null
   },
   {
    "id": "chase_united_quest_2026-10_90k",
@@ -15202,7 +15220,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1260,
    "source_url": "https://www.uscreditcardguide.com/chase-ua-quest/",
-   "notes": "近期最高 110k；2026-04 曾有 100k（截止 2026-05-20）。"
+   "notes": "近期最高 110k；2026-04 曾有 100k（截止 2026-05-20）。",
+   "updated_by": null
   },
   {
    "id": "chase_united_club_2026-10_100k",
@@ -15223,7 +15242,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1400,
    "source_url": "https://www.uscreditcardguide.com/united-mileageplus-club/",
-   "notes": "近期最高 120k。"
+   "notes": "近期最高 120k。",
+   "updated_by": null
   },
   {
    "id": "chase_united_gateway_2026-10_50k",
@@ -15244,7 +15264,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 700,
    "source_url": "https://www.uscreditcardguide.com/chase-united-gateway/",
-   "notes": "美国信用卡指南：“史高了”，此卡最高奖励。无年费。"
+   "notes": "美国信用卡指南：“史高了”，此卡最高奖励。无年费。",
+   "updated_by": null
   },
   {
    "id": "chase_southwest_plus_2026-10_80k",
@@ -15265,7 +15286,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1040,
    "source_url": "https://www.uscreditcardguide.com/chase-southwest-plus/",
-   "notes": "DoC：有效期至 2026-12-02。近期最高 100k。Southwest 常旅客项目 2027-01-01 大改，开卡奖励不再计入 Companion Pass 资格。"
+   "notes": "DoC：有效期至 2026-12-02。近期最高 100k。Southwest 常旅客项目 2027-01-01 大改，开卡奖励不再计入 Companion Pass 资格。",
+   "updated_by": null
   },
   {
    "id": "chase_southwest_premier_2026-10_85k",
@@ -15286,7 +15308,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1105,
    "source_url": "https://www.uscreditcardguide.com/chase-southwest-premier/",
-   "notes": "DoC：有效期至 2026-12-02。近期最高 100k。Southwest 常旅客项目 2027-01-01 大改，开卡奖励不再计入 Companion Pass 资格。"
+   "notes": "DoC：有效期至 2026-12-02。近期最高 100k。Southwest 常旅客项目 2027-01-01 大改，开卡奖励不再计入 Companion Pass 资格。",
+   "updated_by": null
   },
   {
    "id": "chase_southwest_priority_2026-10_90k",
@@ -15307,7 +15330,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1170,
    "source_url": "https://www.uscreditcardguide.com/chase-southwest-priority/",
-   "notes": "DoC：有效期至 2026-12-02。近期最高 100k。Southwest 常旅客项目 2027-01-01 大改，开卡奖励不再计入 Companion Pass 资格。"
+   "notes": "DoC：有效期至 2026-12-02。近期最高 100k。Southwest 常旅客项目 2027-01-01 大改，开卡奖励不再计入 Companion Pass 资格。",
+   "updated_by": null
   },
   {
    "id": "chase_british_airways_2026-09_90k",
@@ -15328,7 +15352,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1080,
    "source_url": "https://www.uscreditcardguide.com/chase-british-airways-ba/",
-   "notes": "近期最高 100k；2026-01 也出现过 90k（2026-03 过期）。BA/IB/EI 的 Avios 可 1:1 互转。"
+   "notes": "近期最高 100k；2026-01 也出现过 90k（2026-03 过期）。BA/IB/EI 的 Avios 可 1:1 互转。",
+   "updated_by": null
   },
   {
    "id": "chase_aer_lingus_2026-09_90k",
@@ -15349,7 +15374,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1080,
    "source_url": "https://www.uscreditcardguide.com/chase-aer-lingus/",
-   "notes": "近期最高 100k；2026-01 也出现过 90k（2026-03 过期）。BA/IB/EI 的 Avios 可 1:1 互转。"
+   "notes": "近期最高 100k；2026-01 也出现过 90k（2026-03 过期）。BA/IB/EI 的 Avios 可 1:1 互转。",
+   "updated_by": null
   },
   {
    "id": "chase_iberia_2026-09_90k",
@@ -15370,7 +15396,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1080,
    "source_url": "https://www.uscreditcardguide.com/chase-iberia/",
-   "notes": "近期最高 100k；2026-01 也出现过 90k（2026-03 过期）。BA/IB/EI 的 Avios 可 1:1 互转。"
+   "notes": "近期最高 100k；2026-01 也出现过 90k（2026-03 过期）。BA/IB/EI 的 Avios 可 1:1 互转。",
+   "updated_by": null
   },
   {
    "id": "chase_aeroplan_2026-09_75k",
@@ -15391,7 +15418,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1050,
    "source_url": "https://www.uscreditcardguide.com/chase-aeroplan/",
-   "notes": "完整 offer 为 75k + 40k（共 115k），后 40k 需开卡 12 个月内总消费 $20,000，估值只算前 75k。2026-09 同时改版涨年费。"
+   "notes": "完整 offer 为 75k + 40k（共 115k），后 40k 需开卡 12 个月内总消费 $20,000，估值只算前 75k。2026-09 同时改版涨年费。",
+   "updated_by": null
   },
   {
    "id": "amex_platinum_2026-02_175k",
@@ -15412,7 +15440,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 2800,
    "source_url": "https://www.uscreditcardguide.com/amex-platinum/",
-   "notes": "“AS HIGH AS” 型 offer，实际额度在申请过程中显示，可能低于 175k。2026-02 起消费要求从 $8,000 提高到 $12,000。2026-09 出现过 175k 的 NLL（无一辈子一次条款）链接，现状待核实。一辈子一次 + 同系列限制（先开 Gold 再开 Platinum）。first_seen 为月份级日期。"
+   "notes": "“AS HIGH AS” 型 offer，实际额度在申请过程中显示，可能低于 175k。2026-02 起消费要求从 $8,000 提高到 $12,000。2026-09 出现过 175k 的 NLL（无一辈子一次条款）链接，现状待核实。一辈子一次 + 同系列限制（先开 Gold 再开 Platinum）。first_seen 为月份级日期。",
+   "updated_by": null
   },
   {
    "id": "amex_gold_2025-06_100k",
@@ -15433,7 +15462,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1600,
    "source_url": "https://www.uscreditcardguide.com/amex-premier-rewards-gold/",
-   "notes": "“AS HIGH AS” 型 offer。2026-08 有人从测试链接发现可能将出 AS HIGH AS 105k（消费 $12k），可等待。first_seen 为月份级日期。"
+   "notes": "“AS HIGH AS” 型 offer。2026-08 有人从测试链接发现可能将出 AS HIGH AS 105k（消费 $12k），可等待。first_seen 为月份级日期。",
+   "updated_by": null
   },
   {
    "id": "amex_hilton_aspire_2026-09_200k",
@@ -15454,7 +15484,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 800,
    "source_url": "https://www.uscreditcardguide.com/amex-hilton-aspire/",
-   "notes": "美国信用卡指南：200k 史高，截止 2027-01-13。"
+   "notes": "美国信用卡指南：200k 史高，截止 2027-01-13。",
+   "updated_by": null
   },
   {
    "id": "amex_hilton_surpass_2026-09_130k",
@@ -15475,7 +15506,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 750,
    "source_url": "https://www.uscreditcardguide.com/amex-hilton-surpass/",
-   "notes": "截止 2027-01-13。近期最高为 150k+$150 或 150k+50k。 估值 = 130,000 × 0.4¢ + 1 张 FN 按 $230（$230）。"
+   "notes": "截止 2027-01-13。近期最高为 150k+$150 或 150k+50k。 估值 = 130,000 × 0.4¢ + 1 张 FN 按 $230（$230）。",
+   "updated_by": null
   },
   {
    "id": "amex_hilton_honors_2026-09_70k",
@@ -15496,7 +15528,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 510,
    "source_url": "https://www.uscreditcardguide.com/amex-hilton/",
-   "notes": "无年费卡。截止 2027-01-13。近期最高 100k+50k。 估值 = 70,000 × 0.4¢ + 1 张 FN 按 $230（$230）。"
+   "notes": "无年费卡。截止 2027-01-13。近期最高 100k+50k。 估值 = 70,000 × 0.4¢ + 1 张 FN 按 $230（$230）。",
+   "updated_by": null
   },
   {
    "id": "amex_delta_gold_2026-11_80k",
@@ -15517,7 +15550,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 960,
    "source_url": "https://www.uscreditcardguide.com/amex-gold-delta-skymiles/",
-   "notes": "2026-08 的 80k+$250 史高 offer 已于 2026-11-04 过期，现为常规 AS HIGH AS 80k。DoC 另列 50k + $400 statement credit 版本。Delta 个人卡系列受同系列限制（先开低年费）。"
+   "notes": "2026-08 的 80k+$250 史高 offer 已于 2026-11-04 过期，现为常规 AS HIGH AS 80k。DoC 另列 50k + $400 statement credit 版本。Delta 个人卡系列受同系列限制（先开低年费）。",
+   "updated_by": null
   },
   {
    "id": "amex_delta_platinum_2026-11_90k",
@@ -15538,7 +15572,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1080,
    "source_url": "https://www.uscreditcardguide.com/amex-platinum-delta-skymiles/",
-   "notes": "2026-08 的 90k+$300 史高 offer 已于 2026-11-04 过期；2026-06 曾有 100k。"
+   "notes": "2026-08 的 90k+$300 史高 offer 已于 2026-11-04 过期；2026-06 曾有 100k。",
+   "updated_by": null
   },
   {
    "id": "amex_delta_reserve_2026-11_125k",
@@ -15559,7 +15594,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1500,
    "source_url": "https://www.uscreditcardguide.com/amex-delta-reserve/",
-   "notes": "等于近期最高（2026-06 也有过 125k）。截止日期未见来源。"
+   "notes": "等于近期最高（2026-06 也有过 125k）。截止日期未见来源。",
+   "updated_by": null
   },
   {
    "id": "amex_marriott_bevy_2026-08_125k",
@@ -15580,7 +15616,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1025,
    "source_url": "https://www.uscreditcardguide.com/amex-marriott-bonvoy-bevy/",
-   "notes": "NLL：无一辈子一次条款，拿过也可再拿。美国信用卡指南原写过期日 2026-09-30，但其 2026-11-01 排行榜和 DoC（2026-10-29）仍列出，实际截止日期待核实。近期最高 175k（2026-03，史高）。 估值 = 125,000 × 0.7¢ + $150 statement credit（$150）。"
+   "notes": "NLL：无一辈子一次条款，拿过也可再拿。美国信用卡指南原写过期日 2026-09-30，但其 2026-11-01 排行榜和 DoC（2026-10-29）仍列出，实际截止日期待核实。近期最高 175k（2026-03，史高）。 估值 = 125,000 × 0.7¢ + $150 statement credit（$150）。",
+   "updated_by": null
   },
   {
    "id": "amex_marriott_brilliant_2026-08_150k",
@@ -15601,7 +15638,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1300,
    "source_url": "https://www.uscreditcardguide.com/amex-spg-luxury/",
-   "notes": "NLL。美国信用卡指南原写过期日 2026-09-30，但 11 月排行榜和 DoC 仍列出，截止日期待核实。近期最高 200k（2026-03，史高）。 估值 = 150,000 × 0.7¢ + $250 statement credit（$250）。"
+   "notes": "NLL。美国信用卡指南原写过期日 2026-09-30，但 11 月排行榜和 DoC 仍列出，截止日期待核实。近期最高 200k（2026-03，史高）。 估值 = 150,000 × 0.7¢ + $250 statement credit（$250）。",
+   "updated_by": null
   },
   {
    "id": "amex_blue_cash_preferred_2026-01_300usd",
@@ -15622,7 +15660,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 300,
    "source_url": "https://www.uscreditcardguide.com/blue-cash-preferred/",
-   "notes": "DoC：公开链接为 $250，经推荐链接有时能看到 $300 + 首年免年费。近期最高 $400。first_seen 为大致日期（美国信用卡指南称约从 2026 年初起）。"
+   "notes": "DoC：公开链接为 $250，经推荐链接有时能看到 $300 + 首年免年费。近期最高 $400。first_seen 为大致日期（美国信用卡指南称约从 2026 年初起）。",
+   "updated_by": null
   },
   {
    "id": "amex_blue_cash_everyday_2026-10_250usd",
@@ -15643,7 +15682,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 250,
    "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
-   "notes": "DoC 列出；另一版本为 $200 + 餐饮 10% 返现（最多 $150）。first_seen 为 DoC 页面日期（实际出现时间更早）。"
+   "notes": "DoC 列出；另一版本为 $200 + 餐饮 10% 返现（最多 $150）。first_seen 为 DoC 页面日期（实际出现时间更早）。",
+   "updated_by": null
   },
   {
    "id": "citi_strata_elite_2026-03_75k",
@@ -15664,7 +15704,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1200,
    "source_url": "https://www.uscreditcardguide.com/citi-strata-elite/",
-   "notes": "近期最高 100k（2025-10 史高，2026-04 前下架）。2026-09 起 Strata 系列改为一辈子一次（持有/曾持有过即拿不到）。first_seen 为月份级日期。"
+   "notes": "近期最高 100k（2025-10 史高，2026-04 前下架）。2026-09 起 Strata 系列改为一辈子一次（持有/曾持有过即拿不到）。first_seen 为月份级日期。",
+   "updated_by": null
   },
   {
    "id": "citi_strata_premier_2026-07_60k",
@@ -15685,7 +15726,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 960,
    "source_url": "https://www.uscreditcardguide.com/citi-thankyou-premier/",
-   "notes": "经 Rakuten 申请另返 $150（2026-09，选返现或 Bilt 模式才看得到），估值未计入。近期最高 80k。2026-09 起一辈子一次。first_seen 为月份级日期。"
+   "notes": "经 Rakuten 申请另返 $150（2026-09，选返现或 Bilt 模式才看得到），估值未计入。近期最高 80k。2026-09 起一辈子一次。first_seen 为月份级日期。",
+   "updated_by": null
   },
   {
    "id": "citi_aadvantage_executive_2026-08_125k",
@@ -15706,7 +15748,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1875,
    "source_url": "https://www.uscreditcardguide.com/citi-aadvantage-executive/",
-   "notes": "美国信用卡指南：史高，但需 5 个月内消费 $15,000（排行榜写 3 个月，以单卡页和 DoC 的 5 个月为准）。年费 $695。"
+   "notes": "美国信用卡指南：史高，但需 5 个月内消费 $15,000（排行榜写 3 个月，以单卡页和 DoC 的 5 个月为准）。年费 $695。",
+   "updated_by": null
   },
   {
    "id": "citi_aadvantage_platinum_select_2026-10_80k",
@@ -15727,7 +15770,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1200,
    "source_url": "https://www.uscreditcardguide.com/citi-aadvantage-platinum-select/",
-   "notes": "需使用机上（in-flight）或机场 offer 链接，可填 000000 作为 offer code；部分链接已失效。此卡将于 2027-01-24 改版。"
+   "notes": "需使用机上（in-flight）或机场 offer 链接，可填 000000 作为 offer code；部分链接已失效。此卡将于 2027-01-24 改版。",
+   "updated_by": null
   },
   {
    "id": "citi_aadvantage_globe_2026-09_90k",
@@ -15748,7 +15792,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1350,
    "source_url": "https://www.uscreditcardguide.com/citi-aadvantage-globe/",
-   "notes": "美国信用卡指南：此卡最高奖励。年费 $350 不免。"
+   "notes": "美国信用卡指南：此卡最高奖励。年费 $350 不免。",
+   "updated_by": null
   },
   {
    "id": "citi_double_cash_2026-10_200usd",
@@ -15769,7 +15814,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 200,
    "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
-   "notes": "DoC 列出；无年费。first_seen 为 DoC 页面日期（实际出现时间更早）。"
+   "notes": "DoC 列出；无年费。first_seen 为 DoC 页面日期（实际出现时间更早）。",
+   "updated_by": null
   },
   {
    "id": "boa_alaska_atmos_summit_2026-10_100k",
@@ -15790,7 +15836,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1600,
    "source_url": "https://www.uscreditcardguide.com/boa-alaska-atmos-summit/",
-   "notes": "开卡 90 天内消费 $6,000；另送一张 25,000 点全球同伴票（估值未计入）。年费 $395。"
+   "notes": "开卡 90 天内消费 $6,000；另送一张 25,000 点全球同伴票（估值未计入）。年费 $395。",
+   "updated_by": null
   },
   {
    "id": "boa_alaska_atmos_ascent_2026-10_80k",
@@ -15811,7 +15858,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1280,
    "source_url": "https://www.uscreditcardguide.com/boa-alaska-atmos-ascent/",
-   "notes": "90 天内消费 $3,000 得 60k，90 天内共消费 $5,000 再得 20k；首年送 $99 同伴票。近期最高 85k。"
+   "notes": "90 天内消费 $3,000 得 60k，90 天内共消费 $5,000 再得 20k；首年送 $99 同伴票。近期最高 85k。",
+   "updated_by": null
   },
   {
    "id": "boa_premium_rewards_2026-10_60k",
@@ -15832,7 +15880,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 600,
    "source_url": "https://www.uscreditcardguide.com/boa-premium-rewards/",
-   "notes": "60k 为此卡最高奖励；经 Rakuten 申请另有加赠（2026-10 美国信用卡指南记录 $425 史高，DoC 写 $300，变动频繁），估值未计入。"
+   "notes": "60k 为此卡最高奖励；经 Rakuten 申请另有加赠（2026-10 美国信用卡指南记录 $425 史高，DoC 写 $300，变动频繁），估值未计入。",
+   "updated_by": null
   },
   {
    "id": "boa_premium_rewards_elite_2026-09_75k",
@@ -15853,7 +15902,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 750,
    "source_url": "https://www.uscreditcardguide.com/boa-premium-rewards-elite/",
-   "notes": "此卡最高奖励（2023-06 起）。年费 $550。first_seen 为页面最后更新日。"
+   "notes": "此卡最高奖励（2023-06 起）。年费 $550。first_seen 为页面最后更新日。",
+   "updated_by": null
   },
   {
    "id": "boa_air_france_klm_2026-08_70k",
@@ -15874,7 +15924,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 840,
    "source_url": "https://www.uscreditcardguide.com/boa-air-france-klm/",
-   "notes": "2026-07 曾有 100k 史高（2026-08 过期）。"
+   "notes": "2026-07 曾有 100k 史高（2026-08 过期）。",
+   "updated_by": null
   },
   {
    "id": "boa_unlimited_cash_2026-10_200usd",
@@ -15895,7 +15946,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 250,
    "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
-   "notes": "2026-11-08 按 BoA 官网更正：90 天内消费 $1,000 拿 $250。"
+   "notes": "2026-11-08 按 BoA 官网更正：90 天内消费 $1,000 拿 $250。",
+   "updated_by": null
   },
   {
    "id": "capital_one_venture_2026-09_75k",
@@ -15916,7 +15968,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1500,
    "source_url": "https://www.uscreditcardguide.com/capital-one-venture/",
-   "notes": "近期最高 100k。受 1/6、48 个月同卡（Venture 与 Venture X 合并计算）限制。 估值 = 75,000 × 1.6¢ + $300 Capital One Travel 额度（首个持卡年内有效）（$300）。"
+   "notes": "近期最高 100k。受 1/6、48 个月同卡（Venture 与 Venture X 合并计算）限制。 估值 = 75,000 × 1.6¢ + $300 Capital One Travel 额度（首个持卡年内有效）（$300）。",
+   "updated_by": null
   },
   {
    "id": "capital_one_venture_x_2026-01_75k",
@@ -15937,7 +15990,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1200,
    "source_url": "https://www.uscreditcardguide.com/capital-one-venture-x/",
-   "notes": "常规奖励；2025-11 曾有 100k（2026-01 过期）。first_seen 为月份级日期。"
+   "notes": "常规奖励；2025-11 曾有 100k（2026-01 过期）。first_seen 为月份级日期。",
+   "updated_by": null
   },
   {
    "id": "capital_one_savor_2026-08_200usd",
@@ -15958,7 +16012,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 200,
    "source_url": "https://www.uscreditcardguide.com/capital-one-savorone/",
-   "notes": "美国信用卡指南 2026-08 称 $250 已过期、现为 $200；DoC 仍列 $250，以前者为准，待核实。first_seen 为月份级日期。"
+   "notes": "美国信用卡指南 2026-08 称 $250 已过期、现为 $200；DoC 仍列 $250，以前者为准，待核实。first_seen 为月份级日期。",
+   "updated_by": null
   },
   {
    "id": "wells_fargo_autograph_journey_2024-03_60k",
@@ -15979,7 +16034,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 600,
    "source_url": "https://www.wellsfargo.com/credit-cards/autograph-journey-visa/terms/",
-   "notes": "Wells Fargo 官方条款确认（2026-11-08）。Premier 客户（$250k+）可在分行申请 Premier Autograph 100k。48 个月内开过此卡拿不到奖励；4 个月内开过 WF 卡可能不批。"
+   "notes": "Wells Fargo 官方条款确认（2026-11-08）。Premier 客户（$250k+）可在分行申请 Premier Autograph 100k。48 个月内开过此卡拿不到奖励；4 个月内开过 WF 卡可能不批。",
+   "updated_by": null
   },
   {
    "id": "wells_fargo_active_cash_2026-10_200usd",
@@ -16000,7 +16056,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 100,
    "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
-   "notes": "2026-11-08 按 Wells Fargo 官网更正：$500 消费拿 $100（DoC 列表里的 $200/$1,500 疑似和 Citi Double Cash 弄混）。消费期限待核实。"
+   "notes": "2026-11-08 按 Wells Fargo 官网更正：$500 消费拿 $100（DoC 列表里的 $200/$1,500 疑似和 Citi Double Cash 弄混）。消费期限待核实。",
+   "updated_by": null
   },
   {
    "id": "barclays_jetblue_plus_2026-02_75k",
@@ -16021,7 +16078,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 900,
    "source_url": "https://www.uscreditcardguide.com/barclaycard-jetblue-plus/",
-   "notes": "需消费 $1,000（90 天）并支付 $99 年费。近期最高 100k。"
+   "notes": "需消费 $1,000（90 天）并支付 $99 年费。近期最高 100k。",
+   "updated_by": null
   },
   {
    "id": "barclays_wyndham_earner_premier_2026-06_120k",
@@ -16042,7 +16100,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1200,
    "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
-   "notes": "120 天内消费 $6,000 得 90k，180 天内在 Wyndham 消费 $750 再得 30k。年费 $395；$95 年费的 Earner+ 也有加码。"
+   "notes": "120 天内消费 $6,000 得 90k，180 天内在 Wyndham 消费 $750 再得 30k。年费 $395；$95 年费的 Earner+ 也有加码。",
+   "updated_by": null
   },
   {
    "id": "barclays_lufthansa_2026-08_70k",
@@ -16063,7 +16122,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 770,
    "source_url": "https://www.uscreditcardguide.com/barclaycard-lufthansa/",
-   "notes": "近期最高 100k。消费要求有冲突：美国信用卡指南写 $3,000，DoC 写 $4,000，待核实。"
+   "notes": "近期最高 100k。消费要求有冲突：美国信用卡指南写 $3,000，DoC 写 $4,000，待核实。",
+   "updated_by": null
   },
   {
    "id": "discover_it_2026-10_300usd",
@@ -16084,7 +16144,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 300,
    "source_url": "https://www.uscreditcardguide.com/discover-it/",
-   "notes": "公开 offer 为 $200，经推荐链接申请双方各得 $100，共 $300（美国信用卡指南：史高）。另有首年返现翻倍（Cashback Match），估值未计入。"
+   "notes": "公开 offer 为 $200，经推荐链接申请双方各得 $100，共 $300（美国信用卡指南：史高）。另有首年返现翻倍（Cashback Match），估值未计入。",
+   "updated_by": null
   },
   {
    "id": "apple_card_2026-10_100usd",
@@ -16105,7 +16166,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 100,
    "source_url": "https://www.uscreditcardguide.com/apple-card/",
-   "notes": "美国信用卡指南：开卡 30 天内消费 $100 得 $100，此卡最高奖励；DoC 正文写“任意消费得 $75 Daily Cash”，两者不一致，待核实。"
+   "notes": "美国信用卡指南：开卡 30 天内消费 $100 得 $100，此卡最高奖励；DoC 正文写“任意消费得 $75 Daily Cash”，两者不一致，待核实。",
+   "updated_by": null
   },
   {
    "id": "synchrony_virgin_red_2026-09_60k",
@@ -16126,7 +16188,8 @@
    "last_seen": "2026-11-08",
    "estimated_value_usd": 900,
    "source_url": "https://www.uscreditcardguide.com/virgin-red-rewards/",
-   "notes": "DoC 标题写 60,000 + 额外 credit，另有来源称额外 credit 是 $100、消费要求可能是 $4,000，待核实；额外 credit 未计入估值。"
+   "notes": "DoC 标题写 60,000 + 额外 credit，另有来源称额外 credit 是 $100、消费要求可能是 $4,000，待核实；额外 credit 未计入估值。",
+   "updated_by": null
   },
   {
    "id": "bilt_palladium_2026-01_50k",
@@ -16147,7 +16210,8 @@
    "last_seen": "2026-01-14",
    "estimated_value_usd": 800,
    "source_url": "https://www.doctorofcredit.com/three-brand-new-bilt-2-0-cards-blue-obsidian-palladium/",
-   "notes": "Bilt 2.0 上线时的奖励（房租/房贷不计入消费要求），$300 Bilt Cash 未计入估值。未能确认 2026-11 是否仍有效，待核实。年费 $495；受 Cardless 60 天一张、每品牌一张限制，且会占 Chase 5/24 名额。"
+   "notes": "Bilt 2.0 上线时的奖励（房租/房贷不计入消费要求），$300 Bilt Cash 未计入估值。未能确认 2026-11 是否仍有效，待核实。年费 $495；受 Cardless 60 天一张、每品牌一张限制，且会占 Chase 5/24 名额。",
+   "updated_by": null
   }
  ],
  "offer_history": [
@@ -17074,7 +17138,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "amex_plat_uber_cash_uber_eats",
@@ -17110,7 +17175,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "amex_digital_entertainment_youtube_stack",
@@ -17146,7 +17212,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "amex_resy_credit_toast_gift_card",
@@ -17184,7 +17251,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "amex_plat_lululemon_quarterly",
@@ -17219,7 +17287,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "amex_plat_oura_equinox",
@@ -17259,7 +17328,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "amex_plat_fhr_h2_2026",
@@ -17295,7 +17365,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "aspire_flight_credit_quarterly",
@@ -17340,7 +17411,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "aspire_resort_credit_real_stay",
@@ -17380,7 +17452,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "amex_delta_stays_rideshare",
@@ -17421,7 +17494,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "ritz_airline_credit_secure_message",
@@ -17461,7 +17535,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "boundless_airline_credit_h2_2026",
@@ -17501,7 +17576,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "chase_monthly_delivery_credits",
@@ -17544,7 +17620,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "csp_hotel_credit_and_apple_tv",
@@ -17584,7 +17661,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "freedom_q4_2026_grocery_dining",
@@ -17631,7 +17709,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "boa_customized_cash_category_switch",
@@ -17661,7 +17740,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "costco_reward_certificate_2026",
@@ -17691,7 +17771,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "year_end_credit_checklist_2026",
@@ -17766,7 +17847,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "dead_amex_plat_ua_travelbank",
@@ -17805,7 +17887,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "dead_book_then_cancel_credits",
@@ -17858,7 +17941,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "chase_paze_10x_2026",
@@ -17895,7 +17979,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "amex_offers_hotel_q4_2026",
@@ -17939,7 +18024,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "amazon_amex_offer_and_mr_points_discount",
@@ -17979,7 +18065,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "gift_card_deals_week_2026_11_08",
@@ -18024,7 +18111,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "liquidate_visa_gift_cards_pay1040",
@@ -18057,7 +18145,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "federal_tax_credit_card_fees_2026",
@@ -18106,7 +18195,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "plastiq_bill_pay_2026",
@@ -18134,7 +18224,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "bilt_rent_flexible_cash_deadline",
@@ -18172,7 +18263,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "venmo_paypal_p2p_credit_card",
@@ -18205,7 +18297,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "amex_business_gift_card_offer",
@@ -18233,7 +18326,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "ink_office_supply_gift_cards",
@@ -18267,7 +18361,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "dead_ms_channels_2026",
@@ -18316,7 +18411,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "rakuten_membership_rewards",
@@ -18351,7 +18447,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "capital_one_shopping_giftcards_com",
@@ -18384,7 +18481,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "airline_portal_bonus_nov_2026",
@@ -18416,7 +18514,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "amex_retention_2026_dp",
@@ -18460,7 +18559,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "chase_retention_2026_dp",
@@ -18498,7 +18598,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "csp_upgrade_csr_for_hyatt_transfer",
@@ -18540,7 +18641,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "hilton_aspire_upgrade_free_night_cycle",
@@ -18577,7 +18679,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "delta_card_downgrade_upgrade_offers",
@@ -18615,7 +18718,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "bcp_keep_or_downgrade_bce",
@@ -18651,7 +18755,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "amex_referral_5_per_card_household",
@@ -18695,7 +18800,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "chase_referral_household",
@@ -18733,7 +18839,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "rakuten_referral_50_2026",
@@ -18763,7 +18870,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "chase_ur_transfer_bonus_2026_11",
@@ -18801,7 +18909,8 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
   },
   {
    "id": "amex_mr_transfer_bonus_2026_11",
@@ -18837,7 +18946,374 @@
      "accessed": "2026-11-08"
     }
    ],
-   "last_verified": "2026-11-08"
+   "last_verified": "2026-11-08",
+   "updated_by": null
+  },
+  {
+   "id": "auto_20261112_1",
+   "title": "经 Rakuten 申请 Citi Strata Premier 加赠 $170（2026-11 起）",
+   "category": "offers",
+   "description": "通过 Rakuten 的专属链接申请 Citi Strata Premier，在 Citi 官方 60k TYP 开卡奖励之外，Rakuten 额外加赠现金，2026-11 起金额升至 $170。Citi 开卡奖励的门槛是开卡后 3 个月内消费满 $4,000，Rakuten 加赠需按其页面流程完成，并注意选择的返利方式会影响能否看到加赠。适合本来就打算申请 Citi Strata Premier 的人，不需要额外消费或成本。",
+   "cost_percent": null,
+   "status": "working",
+   "risk": "low",
+   "risk_notes": "Rakuten 选择赚取 Amex MR 等积分时可能显示加赠为 $0，需改选现金返现或 Bilt 才能看到。加赠金额和条款可能随时调整，以申请时页面为准。该卡有终身一次开卡奖励规则，曾持有者无法拿到 Citi 开卡奖励，Rakuten 加赠是否同样受限也需申请前确认。",
+   "applicable_cards": [
+    "citi_strata_premier"
+   ],
+   "requires_business": false,
+   "tags": [],
+   "first_seen": "2026-11-12",
+   "expires": null,
+   "sources": [
+    {
+     "url": "https://www.uscreditcardguide.com/citi-thankyou-premier/",
+     "title": "Citi Strata Premier 信用卡【2026.11 更新：60k 开卡奖励 + $170 Rakuten 加赠】",
+     "accessed": "2026-11-12"
+    }
+   ],
+   "last_verified": "2026-11-12",
+   "updated_by": "bot"
+  },
+  {
+   "id": "auto_20261112_2",
+   "title": "Amex Offer 报销 Delta SkyMiles 账户间转点手续费（最高 $330，定向）",
+   "category": "offers",
+   "description": "这是一条定向（targeted）Amex Offer：在账户之间转 Delta SkyMiles 时，最高可获得 $330 的对账单返现，用来抵消转点手续费。正常情况下，Delta 里程在两个账户之间转移要收 $30 加每点 1 美分，所以转 30,000 里程的手续费正好是 $330，这个 offer 等于免费转点。它只适用于 Delta 账户之间的转移，不适用于 Amex 积分转出。使用前账户需开户至少 10 天，并且开户后至少赚取过 1 里程。文章更新说明该 offer 已延长至 2026-12-31。",
+   "cost_percent": null,
+   "status": "working",
+   "risk": "medium",
+   "risk_notes": "这是定向 offer，只有部分账户能看到，看不到就不能用。账户需满足开户超过 10 天且至少赚过 1 里程的条件。返现要在对账单上出现，文章未说明未到账的处理方式，需要转点前后核对。",
+   "applicable_cards": [
+    "amex_delta_blue",
+    "amex_delta_gold",
+    "amex_delta_platinum",
+    "amex_delta_reserve"
+   ],
+   "requires_business": false,
+   "tags": [],
+   "first_seen": "2026-11-12",
+   "expires": "2026-12-31",
+   "sources": [
+    {
+     "url": "https://www.doctorofcredit.com/targeted-amex-offers-delta-skymiles-transfer-fees-get-up-to-330-back/",
+     "title": "[Targeted] AmEx Offers: Delta Skymiles Transfer Fees, Get Up To $330 Back",
+     "accessed": "2026-11-12"
+    }
+   ],
+   "last_verified": "2026-11-12",
+   "updated_by": "bot"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-11-12",
+   "kind": "technique_new",
+   "title": "经 Rakuten 申请 Citi Strata Premier 加赠 $170（2026-11 起）",
+   "card_id": null,
+   "source_url": "https://www.uscreditcardguide.com/citi-thankyou-premier/",
+   "source_title": "美国信用卡指南"
+  },
+  {
+   "date": "2026-11-12",
+   "kind": "technique_new",
+   "title": "Amex Offer 报销 Delta SkyMiles 账户间转点手续费（最高 $330，定向）",
+   "card_id": null,
+   "source_url": "https://www.doctorofcredit.com/targeted-amex-offers-delta-skymiles-transfer-fees-get-up-to-330-back/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-12",
+   "kind": "card_note",
+   "title": "The Platinum Card from American Express：自2027年1月6日起，Venue Collection 体育场馆餐饮 10% 返现（每年上限 $250）从 Amex Offers 移到权益（Benefits）栏，已注册的卡无需重新注册；附属卡不能注册，主卡可分别为每张主卡注册。",
+   "card_id": "amex_platinum",
+   "source_url": "https://www.doctorofcredit.com/american-express-makes-changes-to-10-venue-collection-benefit/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-12",
+   "kind": "insight_new",
+   "title": "Hilton Aspire 200,000 点是记录最高，2027-01-13 截止，符合资格的人别拖（已确认）",
+   "card_id": null,
+   "source_url": "https://www.uscreditcardguide.com/amex-hilton-aspire/",
+   "source_title": "AI 每周回顾"
+  },
+  {
+   "date": "2026-11-12",
+   "kind": "insight_new",
+   "title": "西南航空三张卡 offer 高于常规，2026-12-02 截止（已确认）",
+   "card_id": null,
+   "source_url": "https://www.uscreditcardguide.com/chase-southwest-plus/",
+   "source_title": "AI 每周回顾"
+  },
+  {
+   "date": "2026-11-12",
+   "kind": "insight_new",
+   "title": "IHG Premier Select 210,000 点 11-18 截止，同时 Chase 有 IHG 80% 转点奖励（已确认）",
+   "card_id": null,
+   "source_url": "https://www.uscreditcardguide.com/chase-ihg-premier-select/",
+   "source_title": "AI 每周回顾"
+  },
+  {
+   "date": "2026-11-12",
+   "kind": "insight_new",
+   "title": "万豪卡当前 offer 低于 3 月高点，Chase Boundless 有过 200,000 点（很可能）",
+   "card_id": null,
+   "source_url": "https://www.uscreditcardguide.com/amex-marriott-bonvoy-bevy/",
+   "source_title": "AI 每周回顾"
+  },
+  {
+   "date": "2026-11-12",
+   "kind": "insight_new",
+   "title": "Aeroplan 与 IHG Premier 改版，老卡人续费前评估是否保留（很可能）",
+   "card_id": null,
+   "source_url": "https://media.chase.com/news/the-chase-air-canada-aeroplan-credit-card-refresh",
+   "source_title": "AI 每周回顾"
+  },
+  {
+   "date": "2026-11-12",
+   "kind": "insight_new",
+   "title": "Bilt 2027 改版，老卡人 2026-12-31 前要在 app 里选择（很可能）",
+   "card_id": null,
+   "source_url": "https://www.doctorofcredit.com/bilt-revamps-credit-card-rewards-in-2027-discontinuing-4-bilt-cash-for-new-applicants-more/",
+   "source_title": "AI 每周回顾"
+  }
+ ],
+ "insights": [
+  {
+   "id": "ins_20261112_1",
+   "kind": "offer_timing",
+   "title": "Hilton Aspire 200,000 点是记录最高，2027-01-13 截止，符合资格的人别拖",
+   "summary": "Hilton Aspire 现在的 offer 是 200,000 希尔顿点，数据里是史高，2026-09-11 出现，截止 2027-01-13。同期 Hilton Surpass 130,000 点、Hilton Honors 70,000 点，截止日期也是 2027-01-13。",
+   "implication": "本来就打算拿 Aspire 的人，建议在 2027-01-13 前申请，不要等；这个 offer 有截止日，过期后能否回到这个水平没有数据支持。Surpass 和 Honors 的常规水平数据里没有，无法判断是否算高，按自己需求决定。",
+   "action": "apply_soon",
+   "cards": [
+    "amex_hilton_aspire",
+    "amex_hilton_surpass",
+    "amex_hilton_honors"
+   ],
+   "confidence": "confirmed",
+   "expect_by": "2027-01-13",
+   "status": "open",
+   "resolved_reason": null,
+   "first_seen": "2026-11-12",
+   "updated": "2026-11-12",
+   "sources": [
+    {
+     "url": "https://www.uscreditcardguide.com/amex-hilton-aspire/",
+     "title": "Hilton Honors American Express Aspire Card",
+     "accessed": "2026-11-08"
+    },
+    {
+     "url": "https://www.uscreditcardguide.com/amex-hilton-surpass/",
+     "title": "Hilton Honors American Express Surpass Card",
+     "accessed": "2026-11-08"
+    },
+    {
+     "url": "https://www.uscreditcardguide.com/amex-hilton/",
+     "title": "Hilton Honors American Express Card",
+     "accessed": "2026-11-08"
+    }
+   ],
+   "updated_by": "bot"
+  },
+  {
+   "id": "ins_20261112_2",
+   "kind": "offer_timing",
+   "title": "西南航空三张卡 offer 高于常规，2026-12-02 截止",
+   "summary": "西南 Plus 现在 80,000 点（常规 50,000），Premier 85,000 点（常规 55,000），Priority 90,000 点（常规 60,000），三张都在 2026-12-02 截止。三张卡 2026-05-28 的记录最高值与现在持平，并没有更高。",
+   "implication": "打算拿西南卡的人，在 2026-12-02 前申请最划算。数据里 5 月出现过同一水平，之后又回来了，但不能据此认为截止后还会再来，不想赌就趁现在。",
+   "action": "apply_soon",
+   "cards": [
+    "chase_southwest_plus",
+    "chase_southwest_premier",
+    "chase_southwest_priority"
+   ],
+   "confidence": "confirmed",
+   "expect_by": "2026-12-02",
+   "status": "open",
+   "resolved_reason": null,
+   "first_seen": "2026-11-12",
+   "updated": "2026-11-12",
+   "sources": [
+    {
+     "url": "https://www.uscreditcardguide.com/chase-southwest-plus/",
+     "title": "Southwest Rapid Rewards Plus Credit Card",
+     "accessed": "2026-11-08"
+    },
+    {
+     "url": "https://www.uscreditcardguide.com/chase-southwest-premier/",
+     "title": "Southwest Rapid Rewards Premier Credit Card",
+     "accessed": "2026-11-08"
+    },
+    {
+     "url": "https://www.uscreditcardguide.com/chase-southwest-priority/",
+     "title": "Southwest Rapid Rewards Priority Credit Card",
+     "accessed": "2026-11-08"
+    }
+   ],
+   "updated_by": "bot"
+  },
+  {
+   "id": "ins_20261112_3",
+   "kind": "offer_timing",
+   "title": "IHG Premier Select 210,000 点 11-18 截止，同时 Chase 有 IHG 80% 转点奖励",
+   "summary": "Chase IHG Premier Select（2026-10-01 新推出的独立卡种，年费 $350）现在 210,000 IHG 点，截止 2026-11-18。IHG Premier 现在 190,000 点，记录最高是 185,000（2026-04-30），无截止日。Chase UR 转 IHG 有 80% 奖励，截止 2026-12-03。",
+   "implication": "想要 IHG 卡的人，Select 的 210,000 点只剩几天，要的话尽快申。Premier 的 190,000 点没有截止日，不用赶。",
+   "action": "apply_soon",
+   "cards": [
+    "chase_ihg_premier_select",
+    "chase_ihg_premier"
+   ],
+   "confidence": "confirmed",
+   "expect_by": "2026-11-18",
+   "status": "open",
+   "resolved_reason": null,
+   "first_seen": "2026-11-12",
+   "updated": "2026-11-12",
+   "sources": [
+    {
+     "url": "https://www.uscreditcardguide.com/chase-ihg-premier-select/",
+     "title": "Chase IHG One Rewards Premier Select",
+     "accessed": "2026-11-08"
+    },
+    {
+     "url": "https://www.uscreditcardguide.com/chase-ihg-premier/",
+     "title": "Chase IHG One Rewards Premier",
+     "accessed": "2026-11-08"
+    },
+    {
+     "url": "https://www.uscreditcardguide.com/point-transfer-promotions/",
+     "title": "美国信用卡指南：转点奖励活动汇总（2026.11 更新）",
+     "accessed": "2026-11-08"
+    },
+    {
+     "url": "https://www.doctorofcredit.com/deal-calendar-full-list-deals-credit-card-bank-bonuses-expiry-dates/",
+     "title": "Doctor of Credit：Deal Calendar",
+     "accessed": "2026-11-08"
+    }
+   ],
+   "updated_by": "bot"
+  },
+  {
+   "id": "ins_20261112_4",
+   "kind": "offer_timing",
+   "title": "万豪卡当前 offer 低于 3 月高点，Chase Boundless 有过 200,000 点",
+   "summary": "Bevy 现在 125,000 万豪点（常规 85,000，3 月最高 175,000），Brilliant 现在 150,000 点（常规 100,000，3 月最高 200,000）。Chase Boundless 在 2026-11-05 出现过 200,000 点，截止 2026-11-11，现在没有 offer。Brilliant 的 30 天规则条款有冲突，Amex 当前条款页仍显示覆盖所有 Chase 万豪卡。",
+   "implication": "Amex 万豪卡不急，高点可能还会回来，但数据不足以预测时间。申 Brilliant 前先看实际条款，尤其是你有 Chase 万豪卡的话。Boundless 的 200,000 点已过期，需继续观察。",
+   "action": "wait",
+   "cards": [
+    "amex_marriott_bevy",
+    "amex_marriott_brilliant",
+    "chase_marriott_boundless"
+   ],
+   "confidence": "likely",
+   "expect_by": null,
+   "status": "open",
+   "resolved_reason": null,
+   "first_seen": "2026-11-12",
+   "updated": "2026-11-12",
+   "sources": [
+    {
+     "url": "https://www.uscreditcardguide.com/amex-marriott-bonvoy-bevy/",
+     "title": "Marriott Bonvoy Bevy American Express Card",
+     "accessed": "2026-11-08"
+    },
+    {
+     "url": "https://www.uscreditcardguide.com/amex-spg-luxury/",
+     "title": "Marriott Bonvoy Brilliant American Express Card",
+     "accessed": "2026-11-08"
+    },
+    {
+     "url": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/boundless",
+     "title": "Chase 官网：Marriott Bonvoy Boundless",
+     "accessed": "2026-11-08"
+    },
+    {
+     "url": "https://www.uscreditcardguide.com/chase-marriott-premier-plus/",
+     "title": "美国信用卡指南：Chase Marriott Boundless",
+     "accessed": "2026-11-08"
+    }
+   ],
+   "updated_by": "bot"
+  },
+  {
+   "id": "ins_20261112_5",
+   "kind": "card_refresh",
+   "title": "Aeroplan 与 IHG Premier 改版，老卡人续费前评估是否保留",
+   "summary": "Chase Aeroplan 2026-09-10 改版，年费从 $95 升到 $195，超市/餐饮 3x 等福利 2026-12-31 后取消；老卡人开始收 $195 的时间说法不一（2026-12-01 或 2027 年周年日）。IHG Premier 年费从 $99 升到 $150，老卡人 2027 年续费时才按新价收。",
+   "implication": "持有这两张卡的人，在下次续费前对照新福利算一下是否值得，别在续费时被动接受；Aeroplan 先确认自己的续费日。",
+   "action": "hold",
+   "cards": [
+    "chase_aeroplan",
+    "chase_ihg_premier"
+   ],
+   "confidence": "likely",
+   "expect_by": "2026-12-31",
+   "status": "open",
+   "resolved_reason": null,
+   "first_seen": "2026-11-12",
+   "updated": "2026-11-12",
+   "sources": [
+    {
+     "url": "https://media.chase.com/news/the-chase-air-canada-aeroplan-credit-card-refresh",
+     "title": "Chase 新闻稿：Air Canada Aeroplan 卡改版",
+     "accessed": "2026-11-08"
+    },
+    {
+     "url": "https://thepointsguy.com/credit-cards/reviews/chase-aeroplan-world-elite-mastercard-review/",
+     "title": "TPG：Chase Aeroplan World Elite Mastercard（卡组织）",
+     "accessed": "2026-11-08"
+    },
+    {
+     "url": "https://www.doctorofcredit.com/chase-makes-changes-to-existing-ihg-card-lineup-increased-annual-fees-more/",
+     "title": "DoC：Chase IHG 卡改版",
+     "accessed": "2026-11-08"
+    },
+    {
+     "url": "https://www.doctorofcredit.com/new-chase-ihg-food-beverage-credit-requires-an-active-stay/",
+     "title": "DoC：IHG 餐饮券需要在住才能用",
+     "accessed": "2026-11-08"
+    }
+   ],
+   "updated_by": "bot"
+  },
+  {
+   "id": "ins_20261112_6",
+   "kind": "rule_change",
+   "title": "Bilt 2027 改版，老卡人 2026-12-31 前要在 app 里选择",
+   "summary": "Bilt 宣布 2027 年 1 月起新批卡只有 Housing-Only，老卡人要保留 Flexible Bilt Cash 需主动选择，Doctor of Credit 说期限是 2026-12-31 前。Bilt 点转 Hyatt 比例 2027 年起从 1:1 降为 4:3。",
+   "implication": "持有 Bilt 卡的人在 2026-12-31 前去 app 确认选择；有转 Hyatt 打算的，2027 年前转更划算。",
+   "action": "info",
+   "cards": [
+    "bilt_blue",
+    "bilt_obsidian",
+    "bilt_palladium"
+   ],
+   "confidence": "likely",
+   "expect_by": "2026-12-31",
+   "status": "open",
+   "resolved_reason": null,
+   "first_seen": "2026-11-12",
+   "updated": "2026-11-12",
+   "sources": [
+    {
+     "url": "https://www.doctorofcredit.com/bilt-revamps-credit-card-rewards-in-2027-discontinuing-4-bilt-cash-for-new-applicants-more/",
+     "title": "Doctor of Credit：Bilt is Revamping Credit Card Benefits for 2027",
+     "accessed": "2026-11-08"
+    },
+    {
+     "url": "https://thriftytraveler.com/news/points/bilt-2027-changes/",
+     "title": "Thrifty Traveler：Bilt 2027 changes",
+     "accessed": "2026-11-08"
+    },
+    {
+     "url": "https://upgradedpoints.com/news/bilt-rewards-2027-changes-new-benefits/",
+     "title": "Upgraded Points：Bilt 2027 changes",
+     "accessed": "2026-11-08"
+    }
+   ],
+   "updated_by": "bot"
   }
  ],
  "regional": []
