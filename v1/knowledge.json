@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T20:59:24Z",
- "content_hash": "70e50062218fe5b6",
+ "generated_at": "2026-11-16T06:31:05Z",
+ "content_hash": "9764bdad93e853ad",
  "cards": [
   {
    "id": "amex_blue_cash_everyday",
@@ -15149,13 +15149,13 @@
    "is_all_time_high": false,
    "is_elevated": true,
    "typical_amount": null,
-   "expires": "2026-11-18",
+   "expires": "2026-11-15",
    "first_seen": "2026-10-01",
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1050,
    "source_url": "https://www.uscreditcardguide.com/chase-ihg-premier-select/",
    "notes": "2026-10 新发卡（年费 $350）首发 offer，截止 2026-11-18；bonus_amount 含加副卡的 10k。",
-   "updated_by": null
+   "updated_by": "bot"
   },
   {
    "id": "chase_ihg_traveler_2026-10_135k",
@@ -15611,13 +15611,13 @@
    "is_all_time_high": false,
    "is_elevated": true,
    "typical_amount": 85000,
-   "expires": null,
+   "expires": "2026-11-15",
    "first_seen": "2026-08-07",
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1025,
    "source_url": "https://www.uscreditcardguide.com/amex-marriott-bonvoy-bevy/",
    "notes": "NLL：无一辈子一次条款，拿过也可再拿。美国信用卡指南原写过期日 2026-09-30，但其 2026-11-01 排行榜和 DoC（2026-10-29）仍列出，实际截止日期待核实。近期最高 175k（2026-03，史高）。 估值 = 125,000 × 0.7¢ + $150 statement credit（$150）。",
-   "updated_by": null
+   "updated_by": "bot"
   },
   {
    "id": "amex_marriott_brilliant_2026-08_150k",
@@ -16212,6 +16212,50 @@
    "source_url": "https://www.doctorofcredit.com/three-brand-new-bilt-2-0-cards-blue-obsidian-palladium/",
    "notes": "Bilt 2.0 上线时的奖励（房租/房贷不计入消费要求），$300 Bilt Cash 未计入估值。未能确认 2026-11 是否仍有效，待核实。年费 $495；受 Cardless 60 天一张、每品牌一张限制，且会占 Chase 5/24 名额。",
    "updated_by": null
+  },
+  {
+   "id": "chase_ihg_premier_select_2026-11_200k",
+   "card_id": "chase_ihg_premier_select",
+   "card_name": "Chase IHG One Rewards Premier Select",
+   "issuer": "chase",
+   "bonus_amount": 200000,
+   "bonus_currency": "ihg",
+   "bonus_description": "200,000 IHG 点数",
+   "min_spend": 5000,
+   "spend_months": 3,
+   "channel": "public",
+   "is_all_time_high": false,
+   "is_elevated": false,
+   "typical_amount": null,
+   "expires": "2026-11-18",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "estimated_value_usd": 1000,
+   "source_url": "https://www.doctorofcredit.com/chase-launches-new-premium-ihg-card-ihg-premier-select-350-annual-fee/",
+   "notes": "",
+   "updated_by": "bot"
+  },
+  {
+   "id": "amex_marriott_bevy_2026-11_150k",
+   "card_id": "amex_marriott_bevy",
+   "card_name": "Marriott Bonvoy Bevy American Express Card",
+   "issuer": "amex",
+   "bonus_amount": 150000,
+   "bonus_currency": "marriott",
+   "bonus_description": "150,000 万豪点数",
+   "min_spend": 5000,
+   "spend_months": 6,
+   "channel": "public",
+   "is_all_time_high": true,
+   "is_elevated": true,
+   "typical_amount": 85000,
+   "expires": "2027-01-13",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "estimated_value_usd": 1050,
+   "source_url": "https://www.uscreditcardguide.com/amex-marriott-bonvoy-bevy/",
+   "notes": "",
+   "updated_by": "bot"
   }
  ],
  "offer_history": [
@@ -16534,9 +16578,41 @@
    "bonus_currency": "virgin",
    "note": "80k，截止 2026-08-24（月份级日期）",
    "source_url": "https://www.uscreditcardguide.com/virgin-red-rewards/"
+  },
+  {
+   "card_id": "chase_ihg_premier_select",
+   "date": "2026-10-01",
+   "bonus_amount": 210000,
+   "bonus_currency": "ihg",
+   "note": "",
+   "source_url": "https://www.uscreditcardguide.com/chase-ihg-premier-select/"
+  },
+  {
+   "card_id": "chase_ihg_premier_select",
+   "date": "2026-11-16",
+   "bonus_amount": 200000,
+   "bonus_currency": "ihg",
+   "note": "",
+   "source_url": "https://www.doctorofcredit.com/chase-launches-new-premium-ihg-card-ihg-premier-select-350-annual-fee/"
+  },
+  {
+   "card_id": "amex_marriott_bevy",
+   "date": "2026-08-07",
+   "bonus_amount": 125000,
+   "bonus_currency": "marriott",
+   "note": "",
+   "source_url": "https://www.uscreditcardguide.com/amex-marriott-bonvoy-bevy/"
+  },
+  {
+   "card_id": "amex_marriott_bevy",
+   "date": "2026-11-16",
+   "bonus_amount": 150000,
+   "bonus_currency": "marriott",
+   "note": "史高",
+   "source_url": "https://www.uscreditcardguide.com/amex-marriott-bonvoy-bevy/"
   }
  ],
- "offers_updated": "2026-11-08",
+ "offers_updated": "2026-11-16",
  "currencies": [
   {
    "id": "chase_ur",
@@ -19003,6 +19079,34 @@
    ],
    "last_verified": "2026-11-12",
    "updated_by": "bot"
+  },
+  {
+   "id": "auto_20261116_1",
+   "title": "Capital One 转点奖励：转到卡塔尔航空 Privilege Club 加赠 15%（到 12/14）",
+   "category": "other",
+   "description": "Capital One 积分可以转到卡塔尔航空 Privilege Club，目前有 15% 转点奖励：1,000 Capital One 积分平时转 1,000 点 Qatar Avios，活动期间转 1,150 点。活动有效期到 2026 年 12 月 14 日。这是 Qatar 成为转点伙伴一年来第一次出现转点奖励。适合需要 Qatar Avios 订仪的人，把已有的 Capital One 积分按活动比例转过去即可，没有额外费用。",
+   "cost_percent": null,
+   "status": "working",
+   "risk": "low",
+   "risk_notes": "文章只提到活动到 12 月 14 日截止，没有说明转点是否有最低数量或其他限制。转点一般不可撤销，转出前要确认订仪需求。",
+   "applicable_cards": [
+    "chase_aer_lingus",
+    "chase_british_airways",
+    "chase_iberia"
+   ],
+   "requires_business": false,
+   "tags": [],
+   "first_seen": "2026-11-16",
+   "expires": "2026-12-14",
+   "sources": [
+    {
+     "url": "https://www.doctorofcredit.com/capital-one-15-transfer-bonus-to-qatar-11-15/",
+     "title": "Capital One: 15% Transfer Bonus To Qatar (1:1.15)",
+     "accessed": "2026-11-16"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "updated_by": "bot"
   }
  ],
  "changelog": [
@@ -19077,6 +19181,38 @@
    "card_id": null,
    "source_url": "https://www.doctorofcredit.com/bilt-revamps-credit-card-rewards-in-2027-discontinuing-4-bilt-cash-for-new-applicants-more/",
    "source_title": "AI 每周回顾"
+  },
+  {
+   "date": "2026-11-16",
+   "kind": "offer_update",
+   "title": "Chase IHG One Rewards Premier Select：200,000 IHG 点数（之前 210,000 IHG 点数）",
+   "card_id": "chase_ihg_premier_select",
+   "source_url": "https://www.doctorofcredit.com/chase-launches-new-premium-ihg-card-ihg-premier-select-350-annual-fee/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-16",
+   "kind": "insight_new",
+   "title": "Chase 推出 IHG Premier Select 时同步调整了 IHG 积分价值（很可能）",
+   "card_id": null,
+   "source_url": "https://www.doctorofcredit.com/chase-launches-new-premium-ihg-card-ihg-premier-select-350-annual-fee/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-16",
+   "kind": "offer_update",
+   "title": "Marriott Bonvoy Bevy American Express Card：150,000 万豪点数（之前 125,000 万豪点数）",
+   "card_id": "amex_marriott_bevy",
+   "source_url": "https://www.uscreditcardguide.com/amex-marriott-bonvoy-bevy/",
+   "source_title": "美国信用卡指南"
+  },
+  {
+   "date": "2026-11-16",
+   "kind": "technique_new",
+   "title": "Capital One 转点奖励：转到卡塔尔航空 Privilege Club 加赠 15%（到 12/14）",
+   "card_id": null,
+   "source_url": "https://www.doctorofcredit.com/capital-one-15-transfer-bonus-to-qatar-11-15/",
+   "source_title": "Doctor of Credit"
   }
  ],
  "insights": [
@@ -19311,6 +19447,33 @@
      "url": "https://upgradedpoints.com/news/bilt-rewards-2027-changes-new-benefits/",
      "title": "Upgraded Points：Bilt 2027 changes",
      "accessed": "2026-11-08"
+    }
+   ],
+   "updated_by": "bot"
+  },
+  {
+   "id": "ins_20261116_1",
+   "kind": "valuation",
+   "title": "Chase 推出 IHG Premier Select 时同步调整了 IHG 积分价值",
+   "summary": "文章称这张新卡推出时，Chase 对现有卡做了改动，并对 IHG 积分做了全面贬值。文章未给出具体的兑换表数字。",
+   "implication": "若 IHG 积分确实整体贬值，持有 IHG 积分的人应重新估算价值，再决定是否为了积分继续持有或申请 IHG 卡。具体幅度需要看官方兑换表。",
+   "action": "info",
+   "cards": [
+    "chase_ihg_premier_select",
+    "chase_ihg_premier",
+    "chase_ihg_traveler"
+   ],
+   "confidence": "likely",
+   "expect_by": null,
+   "status": "open",
+   "resolved_reason": null,
+   "first_seen": "2026-11-16",
+   "updated": "2026-11-16",
+   "sources": [
+    {
+     "url": "https://www.doctorofcredit.com/chase-launches-new-premium-ihg-card-ihg-premier-select-350-annual-fee/",
+     "title": "Chase Launches New Premium IHG Card ‘IHG Premier Select’ – $350 Annual Fee [Launch Bonus Ends 11/19]",
+     "accessed": "2026-11-16"
     }
    ],
    "updated_by": "bot"
