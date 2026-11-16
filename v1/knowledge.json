@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T06:31:05Z",
- "content_hash": "9764bdad93e853ad",
+ "generated_at": "2026-11-16T22:58:12Z",
+ "content_hash": "d2839beeaad1af65",
  "cards": [
   {
    "id": "amex_blue_cash_everyday",
@@ -15743,13 +15743,13 @@
    "is_all_time_high": true,
    "is_elevated": true,
    "typical_amount": 100000,
-   "expires": null,
+   "expires": "2026-11-15",
    "first_seen": "2026-08-23",
    "last_seen": "2026-11-08",
    "estimated_value_usd": 1875,
    "source_url": "https://www.uscreditcardguide.com/citi-aadvantage-executive/",
    "notes": "美国信用卡指南：史高，但需 5 个月内消费 $15,000（排行榜写 3 个月，以单卡页和 DoC 的 5 个月为准）。年费 $695。",
-   "updated_by": null
+   "updated_by": "bot"
   },
   {
    "id": "citi_aadvantage_platinum_select_2026-10_80k",
@@ -19107,6 +19107,33 @@
    ],
    "last_verified": "2026-11-16",
    "updated_by": "bot"
+  },
+  {
+   "id": "auto_20261116_2",
+   "title": "Chase Sapphire 持卡人 Simplisafe 消费返现（CSR $250 / CSP $150）",
+   "category": "offers",
+   "description": "持有 Chase Sapphire Reserve 的用户可能收到定向优惠：在 Simplisafe 单笔或累计消费满 $250，返还 $250。Chase Sapphire Preferred 的同类优惠是消费满 $250 返还 $150。这是普通消费的返现叠加，本身不赚钱，等于原价买、返还同额。文章说可以考虑等黑五促销再买。文章不确定能否买摄像头后转卖，转售前需要自己核实。",
+   "cost_percent": 0,
+   "status": "working",
+   "risk": "medium",
+   "risk_notes": "优惠是否出现在账户里取决于个人资格，文章说的是「being offered」，没有写明是公开还是定向。如果退货或退款，返现可能会被追回。转售摄像头可能违反商户条款，也可能不符合优惠条件。",
+   "applicable_cards": [
+    "chase_sapphire_reserve",
+    "chase_sapphire_preferred"
+   ],
+   "requires_business": false,
+   "tags": [],
+   "first_seen": "2026-11-16",
+   "expires": null,
+   "sources": [
+    {
+     "url": "https://www.doctorofcredit.com/chase-sapphire-reserve-spend-250-on-simplisafe-get-250-back/",
+     "title": "Chase Sapphire Reserve: Spend $250+ On Simplisafe, Get $250 Back",
+     "accessed": "2026-11-16"
+    }
+   ],
+   "last_verified": "2026-11-16",
+   "updated_by": "bot"
   }
  ],
  "changelog": [
@@ -19212,6 +19239,22 @@
    "title": "Capital One 转点奖励：转到卡塔尔航空 Privilege Club 加赠 15%（到 12/14）",
    "card_id": null,
    "source_url": "https://www.doctorofcredit.com/capital-one-15-transfer-bonus-to-qatar-11-15/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-16",
+   "kind": "offer_expire",
+   "title": "Citi AAdvantage Executive 的 125,000 美航里程 offer已结束",
+   "card_id": "citi_aadvantage_executive",
+   "source_url": "https://www.doctorofcredit.com/best-posts-last-week-year-end-card-checklist-free-turkey-more/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-16",
+   "kind": "technique_new",
+   "title": "Chase Sapphire 持卡人 Simplisafe 消费返现（CSR $250 / CSP $150）",
+   "card_id": null,
+   "source_url": "https://www.doctorofcredit.com/chase-sapphire-reserve-spend-250-on-simplisafe-get-250-back/",
    "source_title": "Doctor of Credit"
   }
  ],
