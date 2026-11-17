@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T22:58:12Z",
- "content_hash": "d2839beeaad1af65",
+ "generated_at": "2026-11-17T21:50:51Z",
+ "content_hash": "308eb5ae05c15737",
  "cards": [
   {
    "id": "amex_blue_cash_everyday",
@@ -19134,6 +19134,32 @@
    ],
    "last_verified": "2026-11-16",
    "updated_by": "bot"
+  },
+  {
+   "id": "auto_20261117_1",
+   "title": "Amex Offer 酒店 $300 返 $75（Hyatt 实付房费，已延至 11/30）",
+   "category": "offers",
+   "description": "用已注册的 Amex 卡，在 Amex Offers 里找到这个 offer，然后在 Hyatt 旗下 Hyatt Regency、Hyatt Centric、Grand Hyatt、Destination by Hyatt 或 Hyatt 品牌的部分酒店，现付（非预付）房费或房间消费，单笔或多笔合计满 $300 美元，可返 $75 账单抵扣（一次性）。门槛和限制：必须在 hyatt.com 或 World of Hyatt App 直接订房，不接受旅行顾问或旅行社订单；不含预付房、团体、Hyatt Leverage、餐饮、spa 和礼品卡；只算房费和房间消费。适合：本来就要去上述 Hyatt 酒店、在 Amex Offers 里已注册了 offer 的人。成本：不需要额外花钱，但要住店、消费满 $300。原活动期为 2026-03-23 至 06-30，文章称已延至 2026-11-30，入账截止以原文为准。",
+   "cost_percent": null,
+   "status": "working",
+   "risk": "low",
+   "risk_notes": "若消费未在活动期内入账、订单走了旅行社或预付房，offer 不会触发。部分酒店可能不在参加名单中，需先查 americanexpress.com/hyatt-classics-offer 的 PDF。同一家店可能有其他 Amex Offer 冲突，文章未提。",
+   "applicable_cards": [
+    "chase_world_of_hyatt"
+   ],
+   "requires_business": false,
+   "tags": [],
+   "first_seen": "2026-11-17",
+   "expires": "2026-11-30",
+   "sources": [
+    {
+     "url": "https://www.doctorofcredit.com/amex-offers-select-hyatt-properties-spend-300-get-75-back/",
+     "title": "AmEx Offers: Select Hyatt Properties, Spend $500 & Get $100 Back",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "last_verified": "2026-11-17",
+   "updated_by": "bot"
   }
  ],
  "changelog": [
@@ -19255,6 +19281,22 @@
    "title": "Chase Sapphire 持卡人 Simplisafe 消费返现（CSR $250 / CSP $150）",
    "card_id": null,
    "source_url": "https://www.doctorofcredit.com/chase-sapphire-reserve-spend-250-on-simplisafe-get-250-back/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-17",
+   "kind": "insight_new",
+   "title": "Hyatt 与 Delta 合作：2027 年起里程碑奖励由 AA 改为 Delta（已确认）",
+   "card_id": "chase_world_of_hyatt",
+   "source_url": "https://www.uscreditcardguide.com/hyatt-he-delta-guanxuanhezuo/",
+   "source_title": "美国信用卡指南"
+  },
+  {
+   "date": "2026-11-17",
+   "kind": "technique_new",
+   "title": "Amex Offer 酒店 $300 返 $75（Hyatt 实付房费，已延至 11/30）",
+   "card_id": null,
+   "source_url": "https://www.doctorofcredit.com/amex-offers-select-hyatt-properties-spend-300-get-75-back/",
    "source_title": "Doctor of Credit"
   }
  ],
@@ -19517,6 +19559,31 @@
      "url": "https://www.doctorofcredit.com/chase-launches-new-premium-ihg-card-ihg-premier-select-350-annual-fee/",
      "title": "Chase Launches New Premium IHG Card ‘IHG Premier Select’ – $350 Annual Fee [Launch Bonus Ends 11/19]",
      "accessed": "2026-11-16"
+    }
+   ],
+   "updated_by": "bot"
+  },
+  {
+   "id": "ins_20261117_1",
+   "kind": "other",
+   "title": "Hyatt 与 Delta 合作：2027 年起里程碑奖励由 AA 改为 Delta",
+   "summary": "Hyatt 宣布与 Delta 建立长期合作，并终止与 AA 的合作。2027 年起新获得的 Hyatt 里程碑奖励中与 AA 相关的选项取消，改为 Delta eCertificate、Sky Club Pass 和 Delta 会籍；2027 年 2 月 1 日起 Delta Choice Benefits 也可选 Hyatt 房券。",
+   "implication": "World of Hyatt 卡的持卡人如果主要看重 AA 相关的里程碑奖励，需要重新评估；如果常飞 Delta，合作后可以获得更多 Delta 相关的里程碑选项。2027 年前后的里程碑奖励选择会发生变化，留意时间节点。",
+   "action": "info",
+   "cards": [
+    "chase_world_of_hyatt"
+   ],
+   "confidence": "confirmed",
+   "expect_by": "2027-02-01",
+   "status": "open",
+   "resolved_reason": null,
+   "first_seen": "2026-11-17",
+   "updated": "2026-11-17",
+   "sources": [
+    {
+     "url": "https://www.uscreditcardguide.com/hyatt-he-delta-guanxuanhezuo/",
+     "title": "Hyatt 和 Delta 官宣合作：相关细节已发布，现在关联账号有额外小奖励",
+     "accessed": "2026-11-17"
     }
    ],
    "updated_by": "bot"
