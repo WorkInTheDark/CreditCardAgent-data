@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T21:50:51Z",
- "content_hash": "308eb5ae05c15737",
+ "generated_at": "2026-11-18T21:30:04Z",
+ "content_hash": "9cdac117f6e5f059",
  "cards": [
   {
    "id": "amex_blue_cash_everyday",
@@ -19298,6 +19298,46 @@
    "card_id": null,
    "source_url": "https://www.doctorofcredit.com/amex-offers-select-hyatt-properties-spend-300-get-75-back/",
    "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-18",
+   "kind": "insight_new",
+   "title": "Chase UR 新增 Qantas 和国泰两个 1:1 转点伙伴（已确认）",
+   "card_id": null,
+   "source_url": "https://www.doctorofcredit.com/chase-adds-qantas-cathay-pacific-as-11-transfer-partner/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-18",
+   "kind": "insight_new",
+   "title": "Chase UR 新增转点伙伴国泰（CX）和澳航（QF），均为 1:1（已确认）",
+   "card_id": null,
+   "source_url": "https://www.uscreditcardguide.com/wings-of-the-points-points-transfer-chart-amex-chase-citi-spg-marriott/",
+   "source_title": "美国信用卡指南"
+  },
+  {
+   "date": "2026-11-18",
+   "kind": "insight_new",
+   "title": "Citi TYP 新增转点伙伴 JL（2026.9）和 Copa CM（2026.11），高阶卡 1:1，普通卡 1:0.7（已确认）",
+   "card_id": null,
+   "source_url": "https://www.uscreditcardguide.com/wings-of-the-points-points-transfer-chart-amex-chase-citi-spg-marriott/",
+   "source_title": "美国信用卡指南"
+  },
+  {
+   "date": "2026-11-18",
+   "kind": "insight_new",
+   "title": "Capital One 新增转点伙伴 Copa（CM），比例仅 1:0.75（已确认）",
+   "card_id": null,
+   "source_url": "https://www.uscreditcardguide.com/wings-of-the-points-points-transfer-chart-amex-chase-citi-spg-marriott/",
+   "source_title": "美国信用卡指南"
+  },
+  {
+   "date": "2026-11-18",
+   "kind": "insight_new",
+   "title": "2027 年起 World of Hyatt 免房券可与套房券或 GoH 叠加使用（已确认）",
+   "card_id": "chase_world_of_hyatt",
+   "source_url": "https://www.uscreditcardguide.com/world-of-hyatt-2027-changes/",
+   "source_title": "美国信用卡指南"
   }
  ],
  "insights": [
@@ -19584,6 +19624,139 @@
      "url": "https://www.uscreditcardguide.com/hyatt-he-delta-guanxuanhezuo/",
      "title": "Hyatt 和 Delta 官宣合作：相关细节已发布，现在关联账号有额外小奖励",
      "accessed": "2026-11-17"
+    }
+   ],
+   "updated_by": "bot"
+  },
+  {
+   "id": "ins_20261118_1",
+   "kind": "valuation",
+   "title": "Chase UR 新增 Qantas 和国泰两个 1:1 转点伙伴",
+   "summary": "Chase 把 Qantas 和 Cathay Pacific 加入 Ultimate Rewards 转点伙伴，UR 积分可以 1:1 转入。美国运通earlier 已把国泰的转点比例从 1:1 降为 5:4。作者猜测两家以后会有转点奖励，但这只是猜测。",
+   "implication": "持有 UR 积分的人现在多了两个 1:1 出口。如果没有马上要用的兑换需求，可以先等等，看后面会不会出现转点奖励。",
+   "action": "wait",
+   "cards": [
+    "chase_sapphire_preferred",
+    "chase_sapphire_reserve",
+    "chase_freedom_flex",
+    "chase_freedom_unlimited"
+   ],
+   "confidence": "confirmed",
+   "expect_by": null,
+   "status": "open",
+   "resolved_reason": null,
+   "first_seen": "2026-11-18",
+   "updated": "2026-11-18",
+   "sources": [
+    {
+     "url": "https://www.doctorofcredit.com/chase-adds-qantas-cathay-pacific-as-11-transfer-partner/",
+     "title": "Chase Adds Qantas & Cathay Pacific As 1:1 Transfer Partner",
+     "accessed": "2026-11-18"
+    }
+   ],
+   "updated_by": "bot"
+  },
+  {
+   "id": "ins_20261118_2",
+   "kind": "valuation",
+   "title": "Chase UR 新增转点伙伴国泰（CX）和澳航（QF），均为 1:1",
+   "summary": "文章 2026.11 更新显示，Chase Ultimate Rewards 新增国泰航空 Asia Miles（CX）和澳洲航空 Qantas（QF）两个转点伙伴，比例均为 1:1。",
+   "implication": "持有 Chase UR 积分的卡（如 CSR、CSP）多了国泰和澳航两个兑换选项，可用于 Asia Miles 和 Qantas 里程兑换。之后兑换时可以对比这两个伙伴与原有航司的价值。",
+   "action": "info",
+   "cards": [
+    "chase_sapphire_reserve",
+    "chase_sapphire_preferred"
+   ],
+   "confidence": "confirmed",
+   "expect_by": null,
+   "status": "open",
+   "resolved_reason": null,
+   "first_seen": "2026-11-18",
+   "updated": "2026-11-18",
+   "sources": [
+    {
+     "url": "https://www.uscreditcardguide.com/wings-of-the-points-points-transfer-chart-amex-chase-citi-spg-marriott/",
+     "title": "Wings of the Points —— UR, MR, TYP, C1, Bilt, Marriott 转点伙伴汇总【2026.11 更新：UR 新增转点伙伴 CX 和 QF】",
+     "accessed": "2026-11-18"
+    }
+   ],
+   "updated_by": "bot"
+  },
+  {
+   "id": "ins_20261118_3",
+   "kind": "valuation",
+   "title": "Citi TYP 新增转点伙伴 JL（2026.9）和 Copa CM（2026.11），高阶卡 1:1，普通卡 1:0.7",
+   "summary": "Citi ThankYou Points 在 2026 年 9 月新增日本航空 JAL（JL）为转点伙伴，2026 年 11 月新增巴拿马航空 Copa（CM）。转 JL 和 CM 时，Citi Strata Elite、Strata Premier 等高阶卡比例为 1:1，而 Double Cash、Custom Cash 和普通 Strata 比例为 1:0.7。",
+   "implication": "想转 JL 或 CM 必须用 Strata Elite 或 Strata Premier 这类高阶卡，否则积分会缩水约 30%。规划申请时，如果看重这两个航司，高阶卡的价值更高。",
+   "action": "info",
+   "cards": [
+    "citi_strata_elite",
+    "citi_strata_premier",
+    "citi_double_cash",
+    "citi_custom_cash"
+   ],
+   "confidence": "confirmed",
+   "expect_by": null,
+   "status": "open",
+   "resolved_reason": null,
+   "first_seen": "2026-11-18",
+   "updated": "2026-11-18",
+   "sources": [
+    {
+     "url": "https://www.uscreditcardguide.com/wings-of-the-points-points-transfer-chart-amex-chase-citi-spg-marriott/",
+     "title": "Wings of the Points —— UR, MR, TYP, C1, Bilt, Marriott 转点伙伴汇总【2026.11 更新：UR 新增转点伙伴 CX 和 QF】",
+     "accessed": "2026-11-18"
+    }
+   ],
+   "updated_by": "bot"
+  },
+  {
+   "id": "ins_20261118_4",
+   "kind": "valuation",
+   "title": "Capital One 新增转点伙伴 Copa（CM），比例仅 1:0.75",
+   "summary": "文章 2026.11 更新：Capital One Miles 新增巴拿马航空 Copa Airlines（CM）为转点伙伴，比例为 1:0.75。",
+   "implication": "Capital One 转 Copa 有 25% 的折损，只在 Copa 航线有明确需求时考虑，不必为此专门申请 Venture 系列卡。",
+   "action": "info",
+   "cards": [
+    "capital_one_venture",
+    "capital_one_venture_x"
+   ],
+   "confidence": "confirmed",
+   "expect_by": null,
+   "status": "open",
+   "resolved_reason": null,
+   "first_seen": "2026-11-18",
+   "updated": "2026-11-18",
+   "sources": [
+    {
+     "url": "https://www.uscreditcardguide.com/wings-of-the-points-points-transfer-chart-amex-chase-citi-spg-marriott/",
+     "title": "Wings of the Points —— UR, MR, TYP, C1, Bilt, Marriott 转点伙伴汇总【2026.11 更新：UR 新增转点伙伴 CX 和 QF】",
+     "accessed": "2026-11-18"
+    }
+   ],
+   "updated_by": "bot"
+  },
+  {
+   "id": "ins_20261118_5",
+   "kind": "rule_change",
+   "title": "2027 年起 World of Hyatt 免房券可与套房券或 GoH 叠加使用",
+   "summary": "凯悦宣布 2027 年起放宽奖券叠加限制，Free Night Award 可以和套房升级券（Suite Upgrade）或 Guest of Honor 一起使用。Club Awards 仍不能叠加 GoH，Thompson 和 Premium Suite 这类 credit awards 仍不能与免房券叠加。",
+   "implication": "Chase World of Hyatt 卡提供的免房券以后用途更广。已经持卡的人可以等 2027 年再规划大额兑换，不必为了凑叠加现在就急着用掉。",
+   "action": "wait",
+   "cards": [
+    "chase_world_of_hyatt"
+   ],
+   "confidence": "confirmed",
+   "expect_by": null,
+   "status": "open",
+   "resolved_reason": null,
+   "first_seen": "2026-11-18",
+   "updated": "2026-11-18",
+   "sources": [
+    {
+     "url": "https://www.uscreditcardguide.com/world-of-hyatt-2027-changes/",
+     "title": "World of Hyatt 2027 改动：环球客免费停车降级，里程碑奖励，可混合使用 Awards",
+     "accessed": "2026-11-18"
     }
    ],
    "updated_by": "bot"
