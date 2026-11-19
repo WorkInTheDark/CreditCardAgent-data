@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T21:30:04Z",
- "content_hash": "9cdac117f6e5f059",
+ "generated_at": "2026-11-19T21:43:19Z",
+ "content_hash": "56a846912b1cd633",
  "cards": [
   {
    "id": "amex_blue_cash_everyday",
@@ -15545,13 +15545,13 @@
    "is_all_time_high": false,
    "is_elevated": false,
    "typical_amount": 80000,
-   "expires": null,
+   "expires": "2026-11-18",
    "first_seen": "2026-11-05",
    "last_seen": "2026-11-08",
    "estimated_value_usd": 960,
    "source_url": "https://www.uscreditcardguide.com/amex-gold-delta-skymiles/",
    "notes": "2026-08 的 80k+$250 史高 offer 已于 2026-11-04 过期，现为常规 AS HIGH AS 80k。DoC 另列 50k + $400 statement credit 版本。Delta 个人卡系列受同系列限制（先开低年费）。",
-   "updated_by": null
+   "updated_by": "bot"
   },
   {
    "id": "amex_delta_platinum_2026-11_90k",
@@ -15941,13 +15941,13 @@
    "is_all_time_high": false,
    "is_elevated": false,
    "typical_amount": null,
-   "expires": null,
+   "expires": "2026-11-18",
    "first_seen": "2026-10-29",
    "last_seen": "2026-11-08",
    "estimated_value_usd": 250,
    "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
    "notes": "2026-11-08 按 BoA 官网更正：90 天内消费 $1,000 拿 $250。",
-   "updated_by": null
+   "updated_by": "bot"
   },
   {
    "id": "capital_one_venture_2026-09_75k",
@@ -16249,11 +16249,121 @@
    "is_all_time_high": true,
    "is_elevated": true,
    "typical_amount": 85000,
-   "expires": "2027-01-13",
+   "expires": "2026-11-18",
    "first_seen": "2026-11-16",
    "last_seen": "2026-11-16",
    "estimated_value_usd": 1050,
    "source_url": "https://www.uscreditcardguide.com/amex-marriott-bonvoy-bevy/",
+   "notes": "",
+   "updated_by": "bot"
+  },
+  {
+   "id": "citi_aadvantage_executive_2026-11_125k",
+   "card_id": "citi_aadvantage_executive",
+   "card_name": "Citi / AAdvantage Executive World Legend Mastercard",
+   "issuer": "citi",
+   "bonus_amount": 125000,
+   "bonus_currency": "american",
+   "bonus_description": "125,000 美航里程",
+   "min_spend": 15000,
+   "spend_months": 5,
+   "channel": "public",
+   "is_all_time_high": false,
+   "is_elevated": true,
+   "typical_amount": 100000,
+   "expires": null,
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "estimated_value_usd": 1875,
+   "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
+   "notes": "",
+   "updated_by": "bot"
+  },
+  {
+   "id": "boa_unlimited_cash_2026-11_200usd",
+   "card_id": "boa_unlimited_cash",
+   "card_name": "Bank of America Unlimited Cash Rewards Credit Card",
+   "issuer": "boa",
+   "bonus_amount": 200,
+   "bonus_currency": "cash",
+   "bonus_description": "$200 返现",
+   "min_spend": 1000,
+   "spend_months": 3,
+   "channel": "public",
+   "is_all_time_high": false,
+   "is_elevated": false,
+   "typical_amount": null,
+   "expires": null,
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "estimated_value_usd": 200,
+   "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
+   "notes": "",
+   "updated_by": "bot"
+  },
+  {
+   "id": "chase_freedom_unlimited_2026-11_200usd",
+   "card_id": "chase_freedom_unlimited",
+   "card_name": "Chase Freedom Unlimited",
+   "issuer": "chase",
+   "bonus_amount": 200,
+   "bonus_currency": "cash",
+   "bonus_description": "$200 返现",
+   "min_spend": null,
+   "spend_months": null,
+   "channel": "in_branch",
+   "is_all_time_high": false,
+   "is_elevated": false,
+   "typical_amount": 200,
+   "expires": null,
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "estimated_value_usd": 200,
+   "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
+   "notes": "",
+   "updated_by": "bot"
+  },
+  {
+   "id": "amex_marriott_bevy_2026-11_125k",
+   "card_id": "amex_marriott_bevy",
+   "card_name": "Marriott Bonvoy Bevy American Express Card",
+   "issuer": "amex",
+   "bonus_amount": 125000,
+   "bonus_currency": "marriott",
+   "bonus_description": "125,000 万豪点数",
+   "min_spend": 5000,
+   "spend_months": 6,
+   "channel": "public",
+   "is_all_time_high": false,
+   "is_elevated": true,
+   "typical_amount": 85000,
+   "expires": null,
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "estimated_value_usd": 875,
+   "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
+   "notes": "",
+   "updated_by": "bot"
+  },
+  {
+   "id": "amex_delta_gold_2026-11_50k",
+   "card_id": "amex_delta_gold",
+   "card_name": "Delta SkyMiles Gold American Express Card",
+   "issuer": "amex",
+   "bonus_amount": 50000,
+   "bonus_currency": "delta",
+   "bonus_description": "50,000 达美里程",
+   "min_spend": 3000,
+   "spend_months": 6,
+   "channel": "public",
+   "is_all_time_high": false,
+   "is_elevated": false,
+   "typical_amount": 80000,
+   "expires": null,
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "estimated_value_usd": 600,
+   "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
    "notes": "",
    "updated_by": "bot"
   }
@@ -16610,9 +16720,65 @@
    "bonus_currency": "marriott",
    "note": "史高",
    "source_url": "https://www.uscreditcardguide.com/amex-marriott-bonvoy-bevy/"
+  },
+  {
+   "card_id": "citi_aadvantage_executive",
+   "date": "2026-11-19",
+   "bonus_amount": 125000,
+   "bonus_currency": "american",
+   "note": "",
+   "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/"
+  },
+  {
+   "card_id": "boa_unlimited_cash",
+   "date": "2026-10-29",
+   "bonus_amount": 250,
+   "bonus_currency": "cash",
+   "note": "",
+   "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/"
+  },
+  {
+   "card_id": "boa_unlimited_cash",
+   "date": "2026-11-19",
+   "bonus_amount": 200,
+   "bonus_currency": "cash",
+   "note": "",
+   "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/"
+  },
+  {
+   "card_id": "chase_freedom_unlimited",
+   "date": "2026-11-19",
+   "bonus_amount": 200,
+   "bonus_currency": "cash",
+   "note": "",
+   "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/"
+  },
+  {
+   "card_id": "amex_marriott_bevy",
+   "date": "2026-11-19",
+   "bonus_amount": 125000,
+   "bonus_currency": "marriott",
+   "note": "",
+   "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/"
+  },
+  {
+   "card_id": "amex_delta_gold",
+   "date": "2026-11-05",
+   "bonus_amount": 80000,
+   "bonus_currency": "delta",
+   "note": "",
+   "source_url": "https://www.uscreditcardguide.com/amex-gold-delta-skymiles/"
+  },
+  {
+   "card_id": "amex_delta_gold",
+   "date": "2026-11-19",
+   "bonus_amount": 50000,
+   "bonus_currency": "delta",
+   "note": "",
+   "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/"
   }
  ],
- "offers_updated": "2026-11-16",
+ "offers_updated": "2026-11-19",
  "currencies": [
   {
    "id": "chase_ur",
@@ -17370,7 +17536,7 @@
    "id": "amex_plat_oura_equinox",
    "title": "白金 Oura $200 / Equinox $300：现在怎么用",
    "category": "credit_usage",
-   "description": "Oura：注册后在 ouraring.com（美国站）用白金买戒指，每自然年报销 $200；只报戒指本身，不含订阅、配件和保修；退货会追回。论坛有用 PayPal 拆分到两张白金卡付款、再找 chat 客服手动补报销成功的 DP，但也有多个客服说 PayPal 付款不报，YMMV。Equinox：在 platinum.equinox.com 注册后，可报销 Equinox 会籍或 Equinox+ 数字订阅，每年最多 $300。论坛流行的“电话向门店买 Equinox 礼品卡”2026-06 后已失效。两项都用不上就别为了报销硬买。",
+   "description": "Oura：注册后在 ouraring.com（美国站）用白金买戒指，每自然年报销 $200；只报戒指本身，不含订阅、配件和保修；退货会追回。论坛有用 PayPal 拆分到两张白金卡付款、再找 chat 客服手动补报销成功的 DP，但也有多个客服说 PayPal 付款不报，YMMV。Equinox：在 platinum.equinox.com 注册后，可报销 Equinox 会籍或 Equinox+ 数字订阅，每年最多 $300。论坛流行的“电话向门店买 Equinox 礼品卡”2026-06 后已失效。两项都用不上就别为了报销硬买。\n（11/19 更新：2026-11-19 Oura Ring 5 官网促销价 $299（银色/黑色），扣除白金 $200 Oura 报销后约 $99；须先在 Amex 注册该权益，只有戒指本体能触发报销，充电器、会员费、礼品卡和第三方零售商购买不计入。）",
    "cost_percent": 0,
    "status": "ymmv",
    "risk": "low",
@@ -17402,10 +17568,15 @@
      "url": "https://www.uscreditcardguide.com/amex-platinum-card/",
      "title": "美国信用卡指南：AmEx Platinum（2026.10 更新）",
      "accessed": "2026-11-08"
+    },
+    {
+     "url": "https://www.doctorofcredit.com/american-express-personal-platinum-adds-200-oura-ring-credit/",
+     "title": "(Update) American Express Personal Platinum Adds $200 Oura Ring Credit",
+     "accessed": "2026-11-19"
     }
    ],
-   "last_verified": "2026-11-08",
-   "updated_by": null
+   "last_verified": "2026-11-19",
+   "updated_by": "bot"
   },
   {
    "id": "amex_plat_fhr_h2_2026",
@@ -19160,6 +19331,34 @@
    ],
    "last_verified": "2026-11-17",
    "updated_by": "bot"
+  },
+  {
+   "id": "auto_20261119_1",
+   "title": "Resy Rewards：在参与餐厅消费额外 4x Amex MR（目前限纽约）",
+   "category": "offers",
+   "description": "Amex 与 Resy 推出 Resy Rewards：在参与的餐厅用 Resy 消费，每 $1 额外获得 4 个 Membership Rewards 积分，叠加卡本身的倍数（如金卡餐饮 4x，合计 8x）。目前仅在纽约市推出，需要用 iOS 版 Resy app 的 rewards 标签页查看和参与。首批参与餐厅包括 Carne Mare、Le Crocodile、Hearth、Kiko、OPTO、Le Pavillon。适合在纽约用餐、持有 MR 积分卡的人。奖励是额外积分，无需额外成本。",
+   "cost_percent": null,
+   "status": "working",
+   "risk": "medium",
+   "risk_notes": "仅纽约和少数餐厅，地区和商家名单都可能变化。需要通过 Resy iOS app 参与，网页或其他渠道未必适用。文章作者推测白金卡 Resy 报销的消费不会获得这 4x，但这一点文章未证实，消费前应自行确认。",
+   "applicable_cards": [
+    "amex_gold",
+    "amex_platinum",
+    "amex_green"
+   ],
+   "requires_business": false,
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "expires": null,
+   "sources": [
+    {
+     "url": "https://www.doctorofcredit.com/american-express-resy-rolling-out-resy-rewards-4x-membership-rewards-on-purchases/",
+     "title": "American Express & Resy Rolling Out ‘Resy Rewards’ 4x Membership Rewards On Purchases",
+     "accessed": "2026-11-19"
+    }
+   ],
+   "last_verified": "2026-11-19",
+   "updated_by": "bot"
   }
  ],
  "changelog": [
@@ -19338,6 +19537,110 @@
    "card_id": "chase_world_of_hyatt",
    "source_url": "https://www.uscreditcardguide.com/world-of-hyatt-2027-changes/",
    "source_title": "美国信用卡指南"
+  },
+  {
+   "date": "2026-11-19",
+   "kind": "technique_update",
+   "title": "「白金 Oura $200 / Equinox $300：现在怎么用」：2026-11-19 Oura Ring 5 官网促销价 $299（银色/黑色），扣除白金 $200 Oura 报销后约 $99；须先在 Amex 注册该权益，只有戒指本体能触发报销，充电器、会员费、礼品卡和第三方零售商购买不计入。",
+   "card_id": null,
+   "source_url": "https://www.doctorofcredit.com/american-express-personal-platinum-adds-200-oura-ring-credit/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-19",
+   "kind": "offer_new",
+   "title": "Citi / AAdvantage Executive World Legend Mastercard：125,000 美航里程",
+   "card_id": "citi_aadvantage_executive",
+   "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-19",
+   "kind": "offer_update",
+   "title": "Bank of America Unlimited Cash Rewards Credit Card：$200 返现（之前 $250 返现）",
+   "card_id": "boa_unlimited_cash",
+   "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-19",
+   "kind": "offer_new",
+   "title": "Chase Freedom Unlimited：$200 返现",
+   "card_id": "chase_freedom_unlimited",
+   "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-19",
+   "kind": "offer_update",
+   "title": "Marriott Bonvoy Bevy American Express Card：125,000 万豪点数（之前 150,000 万豪点数）",
+   "card_id": "amex_marriott_bevy",
+   "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-19",
+   "kind": "offer_update",
+   "title": "Delta SkyMiles Gold American Express Card：50,000 达美里程（之前 80,000 达美里程）",
+   "card_id": "amex_delta_gold",
+   "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-19",
+   "kind": "technique_new",
+   "title": "Resy Rewards：在参与餐厅消费额外 4x Amex MR（目前限纽约）",
+   "card_id": null,
+   "source_url": "https://www.doctorofcredit.com/american-express-resy-rolling-out-resy-rewards-4x-membership-rewards-on-purchases/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-19",
+   "kind": "insight_new",
+   "title": "Resy Rewards 计划将扩展到更多城市和 Tock 场馆（已确认）",
+   "card_id": null,
+   "source_url": "https://www.doctorofcredit.com/american-express-resy-rolling-out-resy-rewards-4x-membership-rewards-on-purchases/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-19",
+   "kind": "insight_update",
+   "title": "「IHG Premier Select 210,000 点 11-18 截止，同时 Chase 有 IHG 80% 转点奖励」不再适用：IHG Premier Select 的 210,000 点 offer 已于 2026-11-18 截止，11-16 已降到 200,000 点，数据里现在没有这张卡的 offer，原建议不再适用。",
+   "card_id": null,
+   "source_url": "https://www.doctorofcredit.com/chase-launches-new-premium-ihg-card-ihg-premier-select-350-annual-fee/",
+   "source_title": "AI 每周回顾"
+  },
+  {
+   "date": "2026-11-19",
+   "kind": "insight_update",
+   "title": "「万豪卡当前 offer 低于 3 月高点，Chase Boundless 有过 200,000 点」有更新",
+   "card_id": null,
+   "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
+   "source_title": "AI 每周回顾"
+  },
+  {
+   "date": "2026-11-19",
+   "kind": "insight_update",
+   "title": "「Chase UR 新增 Qantas 和国泰两个 1:1 转点伙伴」不再适用：内容与 ins_20261118_2 重复：国泰和澳航转点已确认，作者对转点奖励的猜测没有数据支持。",
+   "card_id": null,
+   "source_url": "https://www.uscreditcardguide.com/wings-of-the-points-points-transfer-chart-amex-chase-citi-spg-marriott/",
+   "source_title": "AI 每周回顾"
+  },
+  {
+   "date": "2026-11-19",
+   "kind": "insight_new",
+   "title": "Delta Gold 的 offer 降到 50,000，不急的话先等（很可能）",
+   "card_id": null,
+   "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
+   "source_title": "AI 每周回顾"
+  },
+  {
+   "date": "2026-11-19",
+   "kind": "insight_new",
+   "title": "BoA Unlimited Cash 从 $250 降到 $200，官网信息仍有冲突（传闻）",
+   "card_id": "boa_unlimited_cash",
+   "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
+   "source_title": "AI 每周回顾"
   }
  ],
  "insights": [
@@ -19428,10 +19731,10 @@
    ],
    "confidence": "confirmed",
    "expect_by": "2026-11-18",
-   "status": "open",
-   "resolved_reason": null,
+   "status": "resolved",
+   "resolved_reason": "IHG Premier Select 的 210,000 点 offer 已于 2026-11-18 截止，11-16 已降到 200,000 点，数据里现在没有这张卡的 offer，原建议不再适用。",
    "first_seen": "2026-11-12",
-   "updated": "2026-11-12",
+   "updated": "2026-11-19",
    "sources": [
     {
      "url": "https://www.uscreditcardguide.com/chase-ihg-premier-select/",
@@ -19460,8 +19763,8 @@
    "id": "ins_20261112_4",
    "kind": "offer_timing",
    "title": "万豪卡当前 offer 低于 3 月高点，Chase Boundless 有过 200,000 点",
-   "summary": "Bevy 现在 125,000 万豪点（常规 85,000，3 月最高 175,000），Brilliant 现在 150,000 点（常规 100,000，3 月最高 200,000）。Chase Boundless 在 2026-11-05 出现过 200,000 点，截止 2026-11-11，现在没有 offer。Brilliant 的 30 天规则条款有冲突，Amex 当前条款页仍显示覆盖所有 Chase 万豪卡。",
-   "implication": "Amex 万豪卡不急，高点可能还会回来，但数据不足以预测时间。申 Brilliant 前先看实际条款，尤其是你有 Chase 万豪卡的话。Boundless 的 200,000 点已过期，需继续观察。",
+   "summary": "Bevy 现在 125,000 万豪点（常规 85,000，3 月最高 175,000）；11-16 曾到 150,000，11-19 又回到 125,000。Brilliant 现在 150,000 点（常规 100,000，3 月最高 200,000）。Chase Boundless 在 2026-11-05 出现过 200,000 点，截止 2026-11-11，现在没有 offer。Brilliant 的 30 天规则条款有冲突，Amex 当前条款页仍显示覆盖所有 Chase 万豪卡。",
+   "implication": "Bevy 的 offer 几天内上下波动，不急的话可以再观察；Boundless 目前没有 offer，想拿高 offer 先等。申请 Brilliant 前先核对条款页里的 30 天规则。",
    "action": "wait",
    "cards": [
     "amex_marriott_bevy",
@@ -19473,7 +19776,7 @@
    "status": "open",
    "resolved_reason": null,
    "first_seen": "2026-11-12",
-   "updated": "2026-11-12",
+   "updated": "2026-11-19",
    "sources": [
     {
      "url": "https://www.uscreditcardguide.com/amex-marriott-bonvoy-bevy/",
@@ -19493,6 +19796,21 @@
     {
      "url": "https://www.uscreditcardguide.com/chase-marriott-premier-plus/",
      "title": "美国信用卡指南：Chase Marriott Boundless",
+     "accessed": "2026-11-08"
+    },
+    {
+     "url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
+     "title": "Marriott Bonvoy Bevy American Express Card",
+     "accessed": "2026-11-19"
+    },
+    {
+     "url": "https://www.doctorofcredit.com/american-express-adds-new-restrictive-language-to-marriott-cards/",
+     "title": "DoC: Amex adds restrictive language to Marriott cards (2026-03-13, updated 2026-05-14)",
+     "accessed": "2026-11-08"
+    },
+    {
+     "url": "https://www.doctorofcredit.com/american-express-marriott-bonvoy-bevy-card-now-contains-lifetime-language/",
+     "title": "DoC: Marriott Bevy lifetime language",
      "accessed": "2026-11-08"
     }
    ],
@@ -19643,10 +19961,10 @@
    ],
    "confidence": "confirmed",
    "expect_by": null,
-   "status": "open",
-   "resolved_reason": null,
+   "status": "resolved",
+   "resolved_reason": "内容与 ins_20261118_2 重复：国泰和澳航转点已确认，作者对转点奖励的猜测没有数据支持。",
    "first_seen": "2026-11-18",
-   "updated": "2026-11-18",
+   "updated": "2026-11-19",
    "sources": [
     {
      "url": "https://www.doctorofcredit.com/chase-adds-qantas-cathay-pacific-as-11-transfer-partner/",
@@ -19757,6 +20075,103 @@
      "url": "https://www.uscreditcardguide.com/world-of-hyatt-2027-changes/",
      "title": "World of Hyatt 2027 改动：环球客免费停车降级，里程碑奖励，可混合使用 Awards",
      "accessed": "2026-11-18"
+    }
+   ],
+   "updated_by": "bot"
+  },
+  {
+   "id": "ins_20261119_1",
+   "kind": "other",
+   "title": "Resy Rewards 计划将扩展到更多城市和 Tock 场馆",
+   "summary": "Amex 表示 Resy Rewards 之后会推广到更多城市，部分 Tock 场馆也会加入。目前仅限纽约。",
+   "implication": "如果不在纽约用餐，暂时不必为这项奖励专门调整消费。若常在 Resy 或 Tock 订餐的城市被纳入，可以提前把餐饮消费集中到持有 MR 积分卡上。",
+   "action": "info",
+   "cards": [
+    "amex_gold",
+    "amex_platinum"
+   ],
+   "confidence": "confirmed",
+   "expect_by": null,
+   "status": "open",
+   "resolved_reason": null,
+   "first_seen": "2026-11-19",
+   "updated": "2026-11-19",
+   "sources": [
+    {
+     "url": "https://www.doctorofcredit.com/american-express-resy-rolling-out-resy-rewards-4x-membership-rewards-on-purchases/",
+     "title": "American Express & Resy Rolling Out ‘Resy Rewards’ 4x Membership Rewards On Purchases",
+     "accessed": "2026-11-19"
+    }
+   ],
+   "updated_by": "bot"
+  },
+  {
+   "id": "ins_20261119_2",
+   "kind": "offer_timing",
+   "title": "Delta Gold 的 offer 降到 50,000，不急的话先等",
+   "summary": "Delta Gold 现在 50,000 达美里程，常规 80,000，2026-06-01 是 90,000。2026-11-05 还是 80,000，11-19 降到 50,000。Delta Platinum 现在 90,000（常规 90,000），Reserve 现在 125,000（常规 100,000）。",
+   "implication": "Gold 现在的 offer 低于常规 80,000，不急的话等回升。Reserve 的 125,000 与记录最高持平，高于常规 100,000，想申 Reserve 的人可以考虑现在申请。",
+   "action": "wait",
+   "cards": [
+    "amex_delta_gold",
+    "amex_delta_reserve"
+   ],
+   "confidence": "likely",
+   "expect_by": null,
+   "status": "open",
+   "resolved_reason": null,
+   "first_seen": "2026-11-19",
+   "updated": "2026-11-19",
+   "sources": [
+    {
+     "url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
+     "title": "Delta SkyMiles Gold American Express Card",
+     "accessed": "2026-11-19"
+    },
+    {
+     "url": "https://www.uscreditcardguide.com/amex-delta-reserve/",
+     "title": "Delta SkyMiles Reserve American Express Card",
+     "accessed": "2026-11-08"
+    },
+    {
+     "url": "https://www.uscreditcardguide.com/amex-platinum-delta-skymiles/",
+     "title": "Delta SkyMiles Platinum American Express Card",
+     "accessed": "2026-11-08"
+    }
+   ],
+   "updated_by": "bot"
+  },
+  {
+   "id": "ins_20261119_3",
+   "kind": "offer_timing",
+   "title": "BoA Unlimited Cash 从 $250 降到 $200，官网信息仍有冲突",
+   "summary": "BoA Unlimited Cash 2026-10-29 记录是 $250 返现，2026-11-19 记录为 $200。备注写 2026-11-08 BoA 官网仍显示 $250，与 $200 版本不一致，待核实。",
+   "implication": "申请前先看官网当前奖励，如果仍是 $250 就别按 $200 的数字拖着不申。",
+   "action": "info",
+   "cards": [
+    "boa_unlimited_cash"
+   ],
+   "confidence": "rumor",
+   "expect_by": null,
+   "status": "open",
+   "resolved_reason": null,
+   "first_seen": "2026-11-19",
+   "updated": "2026-11-19",
+   "sources": [
+    {
+     "url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
+     "title": "Bank of America Unlimited Cash Rewards Credit Card",
+     "accessed": "2026-11-19"
+    },
+    {
+     "url": "https://www.uscreditcardguide.com/boa-unlimited-cash-rewards/",
+     "title": "美国信用卡指南：BoA Unlimited Cash Rewards",
+     "accessed": "2026-11-08"
+    },
+    {
+     "url": "https://doctorofcredit.com/bank-of-america-adds-24-month-churning-rule-per-card-alaska-cash-rewards-etc",
+     "title": "Doctor of Credit：BoA 24-month rule per card",
+     "accessed": "2026-11-08"
     }
    ],
    "updated_by": "bot"
