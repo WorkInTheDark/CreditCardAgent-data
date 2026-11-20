@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T21:43:19Z",
- "content_hash": "56a846912b1cd633",
+ "generated_at": "2026-11-20T21:21:43Z",
+ "content_hash": "bb0206ae1f32ec89",
  "cards": [
   {
    "id": "amex_blue_cash_everyday",
@@ -19359,6 +19359,34 @@
    ],
    "last_verified": "2026-11-19",
    "updated_by": "bot"
+  },
+  {
+   "id": "auto_20261120_1",
+   "title": "Bilt 12.1 JetBlue Mosaic 90 天会籍挑战",
+   "category": "other",
+   "description": "12 月 1 日当天，所有 Bilt 会员可参加 JetBlue Mosaic 90 天会籍挑战。初始匹配按 Bilt 等级：Blue 匹配 Mosaic 1 但需先转 10,000 Bilt 点到 JetBlue；Silver 和 Gold 匹配 Mosaic 1，无需转点；Platinum 匹配 Mosaic 2，无需转点。拿到会籍后 3 个月内攒到 10/25/40 个 tiles，可分别保住 Mosaic 1、保住 Mosaic 2 或升到 Mosaic 3，有效期到 2028 年 1 月 31 日。适合常坐 JetBlue、想要 JetBlue 会籍的 Bilt 会员。",
+   "cost_percent": null,
+   "status": "working",
+   "risk": "medium",
+   "risk_notes": "Blue 会员需先转 10,000 Bilt 点（成本取决于 Bilt 点价值）。会籍是否保住取决于 3 个月内能否攒够 tiles，攒不够则达不到保级或升级目标。文章只写了活动当天，报名和条款细节需在 Bilt 页面核实。",
+   "applicable_cards": [
+    "bilt_blue",
+    "bilt_obsidian",
+    "bilt_palladium"
+   ],
+   "requires_business": false,
+   "tags": [],
+   "first_seen": "2026-11-20",
+   "expires": null,
+   "sources": [
+    {
+     "url": "https://www.uscreditcardguide.com/bilt-rent-day/",
+     "title": "Bilt Rent Day 活动【2026.11 更新：兑换 Statement Credit 25%-100% 加成；JetBlue 会籍挑战】",
+     "accessed": "2026-11-20"
+    }
+   ],
+   "last_verified": "2026-11-20",
+   "updated_by": "bot"
   }
  ],
  "changelog": [
@@ -19641,6 +19669,14 @@
    "card_id": "boa_unlimited_cash",
    "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
    "source_title": "AI 每周回顾"
+  },
+  {
+   "date": "2026-11-20",
+   "kind": "technique_new",
+   "title": "Bilt 12.1 JetBlue Mosaic 90 天会籍挑战",
+   "card_id": null,
+   "source_url": "https://www.uscreditcardguide.com/bilt-rent-day/",
+   "source_title": "美国信用卡指南"
   }
  ],
  "insights": [
