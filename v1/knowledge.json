@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T21:21:43Z",
- "content_hash": "bb0206ae1f32ec89",
+ "generated_at": "2026-11-24T01:03:52Z",
+ "content_hash": "2b97bc04c6991356",
  "cards": [
   {
    "id": "amex_blue_cash_everyday",
@@ -19387,6 +19387,32 @@
    ],
    "last_verified": "2026-11-20",
    "updated_by": "bot"
+  },
+  {
+   "id": "auto_20261123_1",
+   "title": "Altitude Connect 免费 GigSky 5GB eSIM：11/30 前领取",
+   "category": "offers",
+   "description": "在 2026-11-30 前领取 Altitude Connect 卡的免费 5GB/15 天 GigSky eSIM 套餐，领取后可以等最多 365 天再激活。这是 11/30 后会失效的 5GB 权益，之后只剩 1GB/15 天标准版。门槛是持有 Altitude Connect（Visa Signature）卡并使用兼容 eSIM 的手机。适合近期有出行计划、或想提前囤一份流量的持卡人。成本为 0，收益是省下境外流量费用，金额取决于用量。",
+   "cost_percent": 0,
+   "status": "working",
+   "risk": "low",
+   "risk_notes": "必须在 11/30 前领取，过期就拿不到 5GB 版本。文章未说明 11/30 后已领取但未激活的套餐是否保留 5GB 额度，也未说明未激活的套餐在 30 天后是否自动激活，需以 GigSky/U.S. Bank 页面为准。",
+   "applicable_cards": [
+    "us_bank_altitude_connect"
+   ],
+   "requires_business": false,
+   "tags": [],
+   "first_seen": "2026-11-23",
+   "expires": "2026-11-30",
+   "sources": [
+    {
+     "url": "https://www.doctorofcredit.com/u-s-bank-adding-new-benefits-to-altitude-connect-card-with-gigsky-mobile-data-in-125-countries/",
+     "title": "(Update) U.S. Bank Altitude Connect Card Adding New GigSky Benefit With Free Mobile Data In 125+ Countries",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "last_verified": "2026-11-23",
+   "updated_by": "bot"
   }
  ],
  "changelog": [
@@ -19677,6 +19703,14 @@
    "card_id": null,
    "source_url": "https://www.uscreditcardguide.com/bilt-rent-day/",
    "source_title": "美国信用卡指南"
+  },
+  {
+   "date": "2026-11-23",
+   "kind": "technique_new",
+   "title": "Altitude Connect 免费 GigSky 5GB eSIM：11/30 前领取",
+   "card_id": null,
+   "source_url": "https://www.doctorofcredit.com/u-s-bank-adding-new-benefits-to-altitude-connect-card-with-gigsky-mobile-data-in-125-countries/",
+   "source_title": "Doctor of Credit"
   }
  ],
  "insights": [
