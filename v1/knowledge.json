@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-24T01:03:52Z",
- "content_hash": "2b97bc04c6991356",
+ "generated_at": "2026-11-24T23:09:26Z",
+ "content_hash": "e177e04e263714d3",
  "cards": [
   {
    "id": "amex_blue_cash_everyday",
@@ -19711,6 +19711,22 @@
    "card_id": null,
    "source_url": "https://www.doctorofcredit.com/u-s-bank-adding-new-benefits-to-altitude-connect-card-with-gigsky-mobile-data-in-125-countries/",
    "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-24",
+   "kind": "insight_new",
+   "title": "BoA 会员加成调整：老卡可保留到 2027–2028，新卡直接按低档（很可能）",
+   "card_id": null,
+   "source_url": "https://www.doctorofcredit.com/existing-bank-of-america-relationship-customers-will-keep-status-longer-than-expected-into-2028-for-some/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-24",
+   "kind": "insight_new",
+   "title": "Aeroplan 积分 18 个月过期规则 2026-11-30 起恢复（很可能）",
+   "card_id": "chase_aeroplan",
+   "source_url": "https://www.uscreditcardguide.com/prevent-aeroplan-from-expiration/",
+   "source_title": "美国信用卡指南"
   }
  ],
  "insights": [
@@ -20242,6 +20258,57 @@
      "url": "https://doctorofcredit.com/bank-of-america-adds-24-month-churning-rule-per-card-alaska-cash-rewards-etc",
      "title": "Doctor of Credit：BoA 24-month rule per card",
      "accessed": "2026-11-08"
+    }
+   ],
+   "updated_by": "bot"
+  },
+  {
+   "id": "ins_20261124_1",
+   "kind": "rule_change",
+   "title": "BoA 会员加成调整：老卡可保留到 2027–2028，新卡直接按低档",
+   "summary": "BoA 现金卡的会员加成调整只影响新批的卡，已持有的卡按入会周年日延后约 3 个月才调整，最早 2027 年 1–2 月，部分人到 2028 年。新卡从 2026-05-26 起直接按新等级给加成，例如 Preferred Honors 的 Unlimited Cash 由 2.62% 降到 2.25%。",
+   "implication": "已持有 Customized Cash 或 Unlimited Cash 的人先别关卡或降级，在保留期内维持原加成。打算新申请的人不能指望老档加成，按新等级算收益。",
+   "action": "hold",
+   "cards": [
+    "boa_unlimited_cash",
+    "boa_customized_cash"
+   ],
+   "confidence": "likely",
+   "expect_by": null,
+   "status": "open",
+   "resolved_reason": null,
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "sources": [
+    {
+     "url": "https://www.doctorofcredit.com/existing-bank-of-america-relationship-customers-will-keep-status-longer-than-expected-into-2028-for-some/",
+     "title": "(Repost) Existing Bank of America Relationship Customers Will Keep Status Longer Than Expected (Into 2028 For Some)",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "updated_by": "bot"
+  },
+  {
+   "id": "ins_20261124_2",
+   "kind": "rule_change",
+   "title": "Aeroplan 积分 18 个月过期规则 2026-11-30 起恢复",
+   "summary": "据美国信用卡指南 2026 年 11 月更新，Aeroplan 长期不过期的临时政策将结束，原有的 18 个月无活动过期规则于 2026-11-30 恢复。文章称 11 月 29 日是最后的行动日期。",
+   "implication": "持有 Aeroplan 积分但长期没有积分进出的人，需在 11 月 29 日前做一次积分活动（如转入、兑换、捐赠或消费入账），否则积分可能过期。持有 Chase Aeroplan 卡的人可留意卡内相关入账是否满足活动要求。",
+   "action": "info",
+   "cards": [
+    "chase_aeroplan"
+   ],
+   "confidence": "likely",
+   "expect_by": "2026-11-30",
+   "status": "open",
+   "resolved_reason": null,
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "sources": [
+    {
+     "url": "https://www.uscreditcardguide.com/prevent-aeroplan-from-expiration/",
+     "title": "如何避免加拿大航空AC里程 (Aeroplan) 过期？【2026.11 更新：11.30起就要恢复过期政策了，长时间没动过里程的赶紧行动啦！】",
+     "accessed": "2026-11-24"
     }
    ],
    "updated_by": "bot"
