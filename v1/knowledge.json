@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-24T23:09:26Z",
- "content_hash": "e177e04e263714d3",
+ "generated_at": "2026-11-25T22:38:51Z",
+ "content_hash": "3911b2b93288a8cc",
  "cards": [
   {
    "id": "amex_blue_cash_everyday",
@@ -15281,9 +15281,9 @@
    "is_all_time_high": false,
    "is_elevated": true,
    "typical_amount": 50000,
-   "expires": "2026-12-02",
+   "expires": "2026-12-14",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-25",
    "estimated_value_usd": 1040,
    "source_url": "https://www.uscreditcardguide.com/chase-southwest-plus/",
    "notes": "DoC：有效期至 2026-12-02。近期最高 100k。Southwest 常旅客项目 2027-01-01 大改，开卡奖励不再计入 Companion Pass 资格。",
@@ -15303,9 +15303,9 @@
    "is_all_time_high": false,
    "is_elevated": true,
    "typical_amount": 55000,
-   "expires": "2026-12-02",
+   "expires": "2026-12-14",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-25",
    "estimated_value_usd": 1105,
    "source_url": "https://www.uscreditcardguide.com/chase-southwest-premier/",
    "notes": "DoC：有效期至 2026-12-02。近期最高 100k。Southwest 常旅客项目 2027-01-01 大改，开卡奖励不再计入 Companion Pass 资格。",
@@ -15325,9 +15325,9 @@
    "is_all_time_high": false,
    "is_elevated": true,
    "typical_amount": 60000,
-   "expires": "2026-12-02",
+   "expires": "2026-12-14",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-25",
    "estimated_value_usd": 1170,
    "source_url": "https://www.uscreditcardguide.com/chase-southwest-priority/",
    "notes": "DoC：有效期至 2026-12-02。近期最高 100k。Southwest 常旅客项目 2027-01-01 大改，开卡奖励不再计入 Companion Pass 资格。",
@@ -16778,7 +16778,7 @@
    "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/"
   }
  ],
- "offers_updated": "2026-11-19",
+ "offers_updated": "2026-11-25",
  "currencies": [
   {
    "id": "chase_ur",
@@ -19727,6 +19727,30 @@
    "card_id": "chase_aeroplan",
    "source_url": "https://www.uscreditcardguide.com/prevent-aeroplan-from-expiration/",
    "source_title": "美国信用卡指南"
+  },
+  {
+   "date": "2026-11-25",
+   "kind": "offer_update",
+   "title": "Southwest Rapid Rewards Plus Credit Card 的 80,000 西南航空点数 offer 截止日更新为 2026-12-14",
+   "card_id": "chase_southwest_plus",
+   "source_url": "https://www.doctorofcredit.com/chase-southwest-personal-cards-80000-90000-points-signup-bonus-2/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-25",
+   "kind": "offer_update",
+   "title": "Southwest Rapid Rewards Premier Credit Card 的 85,000 西南航空点数 offer 截止日更新为 2026-12-14",
+   "card_id": "chase_southwest_premier",
+   "source_url": "https://www.doctorofcredit.com/chase-southwest-personal-cards-80000-90000-points-signup-bonus-2/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-25",
+   "kind": "offer_update",
+   "title": "Southwest Rapid Rewards Priority Credit Card 的 90,000 西南航空点数 offer 截止日更新为 2026-12-14",
+   "card_id": "chase_southwest_priority",
+   "source_url": "https://www.doctorofcredit.com/chase-southwest-personal-cards-80000-90000-points-signup-bonus-2/",
+   "source_title": "Doctor of Credit"
   }
  ],
  "insights": [
