@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T22:38:51Z",
- "content_hash": "3911b2b93288a8cc",
+ "generated_at": "2026-11-26T22:29:22Z",
+ "content_hash": "55cb42aaf5c0b635",
  "cards": [
   {
    "id": "amex_blue_cash_everyday",
@@ -19413,6 +19413,57 @@
    ],
    "last_verified": "2026-11-23",
    "updated_by": "bot"
+  },
+  {
+   "id": "auto_20261126_1",
+   "title": "Chase Marriott 卡：11/30 前注册，消费满 $500 返 $50 万豪礼卡",
+   "category": "offers",
+   "description": "在 Chase 账户的 offers 页面注册（没有直达链接，只有部分账户能看到）。注册窗口为 11/15–11/30/2026，到 2027-02-15 前在卡上消费满 $500（美元交易，可跨商户，不必在万豪消费），退款或取消的消费不计入。满足后 8–12 周内寄出 $50 万豪促销电子礼卡，有效期一年，可在全球参与的万豪酒店使用。门槛和限制：只有注册的主卡持有人能拿礼卡，副卡消费可以计入但副卡人拿不到；取消或退货会失去奖励；申请期间卡片改版会取消资格。适合已经持有 Marriott Bonvoy 卡、且有正常消费的人，相当于把日常开销转成酒店礼卡。",
+   "cost_percent": null,
+   "status": "working",
+   "risk": "low",
+   "risk_notes": "消费满 $500 后要等 8–12 周才到账，时间可能因结账周期而变化。注册后若退货使消费低于 $500，就拿不到礼卡。申请期间卡片改版会失效。需要注意的是，并非所有账户都能注册，看不到入口就不要硬找。",
+   "applicable_cards": [
+    "chase_marriott_bold",
+    "chase_marriott_boundless"
+   ],
+   "requires_business": false,
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "expires": "2027-02-15",
+   "sources": [
+    {
+     "url": "https://www.doctorofcredit.com/ymmv-chase-marriott-bonvoy-cards-spend-500-get-50-egiftcard/",
+     "title": "[YMMV] Chase Marriott Bonvoy Cards: Spend $500+ & Get $50 eGiftcard",
+     "accessed": "2026-11-26"
+    }
+   ],
+   "last_verified": "2026-11-26",
+   "updated_by": "bot"
+  },
+  {
+   "id": "auto_20261126_2",
+   "title": "11/27 Dollar General 买 Lowe's 礼卡 15% 折扣（可叠 Amex Offer）",
+   "category": "portal_stacking",
+   "description": "2026-11-27 当天，在 Dollar General 购买 Lowe's 礼卡可享 15% 折扣，需要向收银员出示优惠券（文章未说明本次是否需要电子券）。文章称可以叠加 Amex Offer，再返 10%，最高返 $5。文章没有写明具体是哪张卡的 Amex Offer，也没有写明叠加条件和最低消费。适合会在 Dollar General 买礼卡、又有符合条件的 Amex Offer 的人。收益较小，主要是礼卡折扣加上 Offer 返现，需要人到店完成。",
+   "cost_percent": null,
+   "status": "working",
+   "risk": "low",
+   "risk_notes": "活动只在 11/27 一天有效，可能因门店而异（有的门店可能只收现金买礼卡）。叠加 Amex Offer 的具体条件文章未说明，需要在自己的账户里确认。",
+   "applicable_cards": [],
+   "requires_business": false,
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "expires": "2026-11-27",
+   "sources": [
+    {
+     "url": "https://www.doctorofcredit.com/dollar-general-save-10-on-lowes-giftcards/",
+     "title": "Dollar General: Save 15% On Lowe’s Giftcards (Valid 11/27 Only)",
+     "accessed": "2026-11-26"
+    }
+   ],
+   "last_verified": "2026-11-26",
+   "updated_by": "bot"
   }
  ],
  "changelog": [
@@ -19751,6 +19802,62 @@
    "card_id": "chase_southwest_priority",
    "source_url": "https://www.doctorofcredit.com/chase-southwest-personal-cards-80000-90000-points-signup-bonus-2/",
    "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-26",
+   "kind": "technique_new",
+   "title": "Chase Marriott 卡：11/30 前注册，消费满 $500 返 $50 万豪礼卡",
+   "card_id": null,
+   "source_url": "https://www.doctorofcredit.com/ymmv-chase-marriott-bonvoy-cards-spend-500-get-50-egiftcard/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-26",
+   "kind": "insight_new",
+   "title": "Rakuten 对 Citi 卡的加赠额在持续上调，作者建议等到更高再申请（很可能）",
+   "card_id": null,
+   "source_url": "https://www.doctorofcredit.com/rakuten-adds-more-citi-cards-to-portal/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-26",
+   "kind": "technique_new",
+   "title": "11/27 Dollar General 买 Lowe's 礼卡 15% 折扣（可叠 Amex Offer）",
+   "card_id": null,
+   "source_url": "https://www.doctorofcredit.com/dollar-general-save-10-on-lowes-giftcards/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-26",
+   "kind": "insight_update",
+   "title": "「西南航空三张卡 offer 高于常规，2026-12-02 截止」有更新",
+   "card_id": null,
+   "source_url": "https://www.uscreditcardguide.com/chase-southwest-plus/",
+   "source_title": "AI 每周回顾"
+  },
+  {
+   "date": "2026-11-26",
+   "kind": "insight_update",
+   "title": "「BoA Unlimited Cash 从 $250 降到 $200，官网信息仍有冲突」不再适用：2026-11-19 这个 200 美元的记录与官网冲突，且这条传闻没有后续新证据，不足以影响申请决定。",
+   "card_id": null,
+   "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
+   "source_title": "AI 每周回顾"
+  },
+  {
+   "date": "2026-11-26",
+   "kind": "insight_new",
+   "title": "Delta 三张卡里只有 Gold 的 offer 在 11 月被下调（很可能）",
+   "card_id": null,
+   "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
+   "source_title": "AI 每周回顾"
+  },
+  {
+   "date": "2026-11-26",
+   "kind": "insight_new",
+   "title": "Citi AAdvantage Executive 125,000 美航里程是记录最高，不要因为一条过期消息放弃（很可能）",
+   "card_id": "citi_aadvantage_executive",
+   "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
+   "source_title": "AI 每周回顾"
   }
  ],
  "insights": [
@@ -19795,8 +19902,8 @@
    "id": "ins_20261112_2",
    "kind": "offer_timing",
    "title": "西南航空三张卡 offer 高于常规，2026-12-02 截止",
-   "summary": "西南 Plus 现在 80,000 点（常规 50,000），Premier 85,000 点（常规 55,000），Priority 90,000 点（常规 60,000），三张都在 2026-12-02 截止。三张卡 2026-05-28 的记录最高值与现在持平，并没有更高。",
-   "implication": "打算拿西南卡的人，在 2026-12-02 前申请最划算。数据里 5 月出现过同一水平，之后又回来了，但不能据此认为截止后还会再来，不想赌就趁现在。",
+   "summary": "西南 Plus 现在 80,000 点（常规 50,000），Premier 85,000 点（常规 55,000），Priority 90,000 点（常规 60,000）。11-25 截止日已更新为 2026-12-14，原先写的 2026-12-02 不再准确。三张卡 2026-05-28 的记录最高值与现在持平，并没有更高。",
+   "implication": "截止日延到 2026-12-14，符合资格、本来就想要西南点数的人可以在这之前申请，不必赶 12-02。",
    "action": "apply_soon",
    "cards": [
     "chase_southwest_plus",
@@ -19804,11 +19911,11 @@
     "chase_southwest_priority"
    ],
    "confidence": "confirmed",
-   "expect_by": "2026-12-02",
+   "expect_by": "2026-12-14",
    "status": "open",
    "resolved_reason": null,
    "first_seen": "2026-11-12",
-   "updated": "2026-11-12",
+   "updated": "2026-11-26",
    "sources": [
     {
      "url": "https://www.uscreditcardguide.com/chase-southwest-plus/",
@@ -19824,6 +19931,11 @@
      "url": "https://www.uscreditcardguide.com/chase-southwest-priority/",
      "title": "Southwest Rapid Rewards Priority Credit Card",
      "accessed": "2026-11-08"
+    },
+    {
+     "url": "https://www.doctorofcredit.com/chase-southwest-personal-cards-80000-90000-points-signup-bonus-2/",
+     "title": "Doctor of Credit",
+     "accessed": "2026-11-25"
     }
    ],
    "updated_by": "bot"
@@ -20263,10 +20375,10 @@
    ],
    "confidence": "rumor",
    "expect_by": null,
-   "status": "open",
-   "resolved_reason": null,
+   "status": "resolved",
+   "resolved_reason": "2026-11-19 这个 200 美元的记录与官网冲突，且这条传闻没有后续新证据，不足以影响申请决定。",
    "first_seen": "2026-11-19",
-   "updated": "2026-11-19",
+   "updated": "2026-11-26",
    "sources": [
     {
      "url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
@@ -20333,6 +20445,95 @@
      "url": "https://www.uscreditcardguide.com/prevent-aeroplan-from-expiration/",
      "title": "如何避免加拿大航空AC里程 (Aeroplan) 过期？【2026.11 更新：11.30起就要恢复过期政策了，长时间没动过里程的赶紧行动啦！】",
      "accessed": "2026-11-24"
+    }
+   ],
+   "updated_by": "bot"
+  },
+  {
+   "id": "ins_20261126_1",
+   "kind": "issuer_behavior",
+   "title": "Rakuten 对 Citi 卡的加赠额在持续上调，作者建议等到更高再申请",
+   "summary": "Rakuten 近期把 Citi Double Cash、Strata、Strata Premier、Strata Elite 的门户加赠额从最初的 $50 提高到 $145–$225。作者认为历史上这类加赠会大幅提高，并建议等到更高再申请。",
+   "implication": "若近期不急着开新 Citi 卡，可以先观察 Rakuten 门户金额，等加赠额再涨；但它只是门户额外奖励，开卡前仍要确认 Citi 的开卡奖励资格（Strata 系列现在按「正持有或曾经持有」判断）。",
+   "action": "wait",
+   "cards": [
+    "citi_double_cash",
+    "citi_strata_premier",
+    "citi_strata_elite"
+   ],
+   "confidence": "likely",
+   "expect_by": null,
+   "status": "open",
+   "resolved_reason": null,
+   "first_seen": "2026-11-26",
+   "updated": "2026-11-26",
+   "sources": [
+    {
+     "url": "https://www.doctorofcredit.com/rakuten-adds-more-citi-cards-to-portal/",
+     "title": "Rakuten Adds More Citi Cards To Portal (Up To $225)",
+     "accessed": "2026-11-26"
+    }
+   ],
+   "updated_by": "bot"
+  },
+  {
+   "id": "ins_20261126_2",
+   "kind": "offer_trend",
+   "title": "Delta 三张卡里只有 Gold 的 offer 在 11 月被下调",
+   "summary": "Delta Gold 现在 50,000 达美里程，常规 80,000，11-05 还是 80,000。Platinum 现在 90,000（常规 90,000），Reserve 现在 125,000（常规 100,000，记录最高也是 125,000）。",
+   "implication": "想拿 Delta 里程又不挑卡的人，Reserve 的 125,000 与记录最高持平，值得优先考虑；Gold 等回到 80,000 附近再看，不要在 50,000 时申请。",
+   "action": "info",
+   "cards": [
+    "amex_delta_gold",
+    "amex_delta_reserve",
+    "amex_delta_platinum"
+   ],
+   "confidence": "likely",
+   "expect_by": null,
+   "status": "open",
+   "resolved_reason": null,
+   "first_seen": "2026-11-26",
+   "updated": "2026-11-26",
+   "sources": [
+    {
+     "url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
+     "title": "Delta SkyMiles Gold American Express Card",
+     "accessed": "2026-11-19"
+    },
+    {
+     "url": "https://www.uscreditcardguide.com/amex-delta-reserve/",
+     "title": "Delta SkyMiles Reserve American Express Card",
+     "accessed": "2026-11-08"
+    },
+    {
+     "url": "https://www.uscreditcardguide.com/amex-platinum-delta-skymiles/",
+     "title": "Delta SkyMiles Platinum American Express Card",
+     "accessed": "2026-11-08"
+    }
+   ],
+   "updated_by": "bot"
+  },
+  {
+   "id": "ins_20261126_3",
+   "kind": "offer_timing",
+   "title": "Citi AAdvantage Executive 125,000 美航里程是记录最高，不要因为一条过期消息放弃",
+   "summary": "11-16 有消息称 Executive 的 125,000 offer 已结束，但 11-19 又被重新记录为 125,000。数据里现在 125,000，常规 100,000，记录最高 125,000（2026-08-23）。",
+   "implication": "想拿美航里程且能承受 $695 年费的人，现在这个 offer 与记录最高持平，不用等；申请前以申请页实际显示为准。",
+   "action": "apply_soon",
+   "cards": [
+    "citi_aadvantage_executive"
+   ],
+   "confidence": "likely",
+   "expect_by": null,
+   "status": "open",
+   "resolved_reason": null,
+   "first_seen": "2026-11-26",
+   "updated": "2026-11-26",
+   "sources": [
+    {
+     "url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
+     "title": "Citi / AAdvantage Executive World Legend Mastercard",
+     "accessed": "2026-11-19"
     }
    ],
    "updated_by": "bot"
