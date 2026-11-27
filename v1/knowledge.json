@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-26T22:29:22Z",
- "content_hash": "55cb42aaf5c0b635",
+ "generated_at": "2026-11-27T22:10:59Z",
+ "content_hash": "8aa72b06b5921bc8",
  "cards": [
   {
    "id": "amex_blue_cash_everyday",
@@ -16366,6 +16366,72 @@
    "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
    "notes": "",
    "updated_by": "bot"
+  },
+  {
+   "id": "amex_delta_gold_2026-11_90k",
+   "card_id": "amex_delta_gold",
+   "card_name": "Delta SkyMiles Gold American Express Card",
+   "issuer": "amex",
+   "bonus_amount": 90000,
+   "bonus_currency": "delta",
+   "bonus_description": "90,000 达美里程",
+   "min_spend": 5000,
+   "spend_months": 6,
+   "channel": "targeted",
+   "is_all_time_high": false,
+   "is_elevated": true,
+   "typical_amount": 80000,
+   "expires": null,
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "estimated_value_usd": 1080,
+   "source_url": "https://www.doctorofcredit.com/ymmv-american-express-delta-offers-up-to-75000-miles-200-statement-credit-no-lifetime-language/",
+   "notes": "",
+   "updated_by": "bot"
+  },
+  {
+   "id": "amex_delta_platinum_2026-11_100k",
+   "card_id": "amex_delta_platinum",
+   "card_name": "Delta SkyMiles Platinum American Express Card",
+   "issuer": "amex",
+   "bonus_amount": 100000,
+   "bonus_currency": "delta",
+   "bonus_description": "100,000 达美里程",
+   "min_spend": 5000,
+   "spend_months": 6,
+   "channel": "targeted",
+   "is_all_time_high": false,
+   "is_elevated": true,
+   "typical_amount": 90000,
+   "expires": null,
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "estimated_value_usd": 1200,
+   "source_url": "https://www.doctorofcredit.com/ymmv-american-express-delta-offers-up-to-75000-miles-200-statement-credit-no-lifetime-language/",
+   "notes": "",
+   "updated_by": "bot"
+  },
+  {
+   "id": "amex_delta_reserve_2026-11_125kb",
+   "card_id": "amex_delta_reserve",
+   "card_name": "Delta SkyMiles Reserve American Express Card",
+   "issuer": "amex",
+   "bonus_amount": 125000,
+   "bonus_currency": "delta",
+   "bonus_description": "125,000 达美里程",
+   "min_spend": 8000,
+   "spend_months": 6,
+   "channel": "targeted",
+   "is_all_time_high": false,
+   "is_elevated": true,
+   "typical_amount": 100000,
+   "expires": null,
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "estimated_value_usd": 1500,
+   "source_url": "https://www.doctorofcredit.com/ymmv-american-express-delta-offers-up-to-75000-miles-200-statement-credit-no-lifetime-language/",
+   "notes": "",
+   "updated_by": "bot"
   }
  ],
  "offer_history": [
@@ -16776,9 +16842,33 @@
    "bonus_currency": "delta",
    "note": "",
    "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/"
+  },
+  {
+   "card_id": "amex_delta_gold",
+   "date": "2026-11-27",
+   "bonus_amount": 90000,
+   "bonus_currency": "delta",
+   "note": "",
+   "source_url": "https://www.doctorofcredit.com/ymmv-american-express-delta-offers-up-to-75000-miles-200-statement-credit-no-lifetime-language/"
+  },
+  {
+   "card_id": "amex_delta_platinum",
+   "date": "2026-11-27",
+   "bonus_amount": 100000,
+   "bonus_currency": "delta",
+   "note": "",
+   "source_url": "https://www.doctorofcredit.com/ymmv-american-express-delta-offers-up-to-75000-miles-200-statement-credit-no-lifetime-language/"
+  },
+  {
+   "card_id": "amex_delta_reserve",
+   "date": "2026-11-27",
+   "bonus_amount": 125000,
+   "bonus_currency": "delta",
+   "note": "",
+   "source_url": "https://www.doctorofcredit.com/ymmv-american-express-delta-offers-up-to-75000-miles-200-statement-credit-no-lifetime-language/"
   }
  ],
- "offers_updated": "2026-11-25",
+ "offers_updated": "2026-11-27",
  "currencies": [
   {
    "id": "chase_ur",
@@ -19464,6 +19554,59 @@
    ],
    "last_verified": "2026-11-26",
    "updated_by": "bot"
+  },
+  {
+   "id": "auto_20261127_1",
+   "title": "Amazon TYP 点数支付满减：20%/25%/40% off（2026.11，targeted）",
+   "category": "offers",
+   "description": "用 Citi ThankYou 点数（TYP）在 Amazon 下单时部分支付，系统对部分账户推送 SWP 满减，目前看到 20%/25%/40% off（都有上限）。结账时至少使用 125 TYP 才能触发，只适用于 sold and shipped by Amazon 的商品。优惠由 targeted 推送，不是所有人都能看到，需要在 Amazon 上检查是否真的出现了折扣后再下单。成本是所用的 TYP 点数，按你自己的点数估值计算；截止 2026-12-31 或名额（23,333 人）用完为止，先到为准。",
+   "cost_percent": null,
+   "status": "working",
+   "risk": "low",
+   "risk_notes": "这是 targeted 活动，不是每个人都能看到；名额用完或到期后折扣消失。下单前要确认页面上确实显示了折扣，否则会按原价用点数或刷卡。只适用于 Amazon 自营发货的商品，第三方卖家商品不适用。",
+   "applicable_cards": [
+    "citi_strata_elite",
+    "citi_strata_premier",
+    "citi_double_cash",
+    "citi_custom_cash"
+   ],
+   "requires_business": false,
+   "tags": [],
+   "first_seen": "2026-11-27",
+   "expires": "2026-12-31",
+   "sources": [
+    {
+     "url": "https://www.uscreditcardguide.com/amazon-targeted-deals/",
+     "title": "Amazon 省钱折扣汇总【2026.11 更新：MR/TYP 点数支付折扣又来啦】",
+     "accessed": "2026-11-27"
+    }
+   ],
+   "last_verified": "2026-11-27",
+   "updated_by": "bot"
+  },
+  {
+   "id": "auto_20261127_2",
+   "title": "Dell 经 Rakuten 购物 12x 返利：年底用掉商务白金 $150 Dell 报销",
+   "category": "portal_stacking",
+   "description": "通过 Rakuten 门户进入 Dell 官网下单，文章写明当前 Dell 购物为 12x 返利，可以用来消耗 Amex Business Platinum 的 $150 Dell 报销额度，年底前时间不多。作者提到这个倍数有时会涨到 15x，但不同用户看到的倍数不一样，很多人只看到 10x 或更低，需要在 Rakuten 网页、app 或邮件里再确认。门槛是先在 Rakuten 上确认当前倍数再下单，并用能获得 Amex 报销的卡付款。适合已经有商务白金 Dell 报销、又还没用完额度的人，一笔 $150 左右的消费就能拿到一些门户奖励。成本主要是这笔消费本身，原文没有给出具体返利金额。",
+   "cost_percent": null,
+   "status": "working",
+   "risk": "medium",
+   "risk_notes": "原文编辑已标注 YMMV：很多人看不到 12x，只有 10x 甚至没有加成。倍数可能随时变化，下单前需要在 Rakuten 上确认。文章没有写明截止日期，只提到年底前。",
+   "applicable_cards": [],
+   "requires_business": false,
+   "tags": [],
+   "first_seen": "2026-11-27",
+   "expires": null,
+   "sources": [
+    {
+     "url": "https://www.doctorofcredit.com/rakuten-get-12x-on-dell/",
+     "title": "Rakuten: Get 12x On Dell",
+     "accessed": "2026-11-27"
+    }
+   ],
+   "last_verified": "2026-11-27",
+   "updated_by": "bot"
   }
  ],
  "changelog": [
@@ -19858,6 +20001,46 @@
    "card_id": "citi_aadvantage_executive",
    "source_url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
    "source_title": "AI 每周回顾"
+  },
+  {
+   "date": "2026-11-27",
+   "kind": "offer_new",
+   "title": "Delta SkyMiles Gold American Express Card：90,000 达美里程",
+   "card_id": "amex_delta_gold",
+   "source_url": "https://www.doctorofcredit.com/ymmv-american-express-delta-offers-up-to-75000-miles-200-statement-credit-no-lifetime-language/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-27",
+   "kind": "offer_new",
+   "title": "Delta SkyMiles Platinum American Express Card：100,000 达美里程",
+   "card_id": "amex_delta_platinum",
+   "source_url": "https://www.doctorofcredit.com/ymmv-american-express-delta-offers-up-to-75000-miles-200-statement-credit-no-lifetime-language/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-27",
+   "kind": "offer_new",
+   "title": "Delta SkyMiles Reserve American Express Card：125,000 达美里程",
+   "card_id": "amex_delta_reserve",
+   "source_url": "https://www.doctorofcredit.com/ymmv-american-express-delta-offers-up-to-75000-miles-200-statement-credit-no-lifetime-language/",
+   "source_title": "Doctor of Credit"
+  },
+  {
+   "date": "2026-11-27",
+   "kind": "technique_new",
+   "title": "Amazon TYP 点数支付满减：20%/25%/40% off（2026.11，targeted）",
+   "card_id": null,
+   "source_url": "https://www.uscreditcardguide.com/amazon-targeted-deals/",
+   "source_title": "美国信用卡指南"
+  },
+  {
+   "date": "2026-11-27",
+   "kind": "technique_new",
+   "title": "Dell 经 Rakuten 购物 12x 返利：年底用掉商务白金 $150 Dell 报销",
+   "card_id": null,
+   "source_url": "https://www.doctorofcredit.com/rakuten-get-12x-on-dell/",
+   "source_title": "Doctor of Credit"
   }
  ],
  "insights": [
